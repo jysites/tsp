@@ -36,6 +36,13 @@ CATEGORIES: Dict[str, Dict[str, str]] = {
         "label": "Training: Advanced 9th-12th",
         "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
     },
+    "group": {
+        "label": "Group Training",
+        "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
+        "filter": "group",   # only include seasons whose title contains this word
+        "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
+        "scrape_mode": "season_cards",  # tells the runner to use the card-based extractor
+    },
 }
 
 
@@ -143,6 +150,56 @@ def extract_events_from_page(page, category_url: str, logger: logging.Logger) ->
 
     return events
 
+def extract_events_from_season_cards(page, signup_url: str, filter_word: str, logger: logging.Logger) -> List[Event]:
+    """
+    Extracts events from SeasonDetails card layout (same structure as camps page).
+    Only includes cards whose title contains filter_word (case-insensitive).
+    """
+    events: List[Event] = []
+
+    try:
+        page.wait_for_selector('h3[data-testid="SeasonDetails-EF514D"]', timeout=WAIT_FOR_UL_TIMEOUT_MS)
+    except PlaywrightTimeoutError:
+        logger.info("No season cards found (timed out). Returning empty list.")
+        return events
+
+    cards = page.locator('div.css-1y8xm4p-SeasonDetails-boxItemCss')
+    total = cards.count()
+    logger.info(f"Found {total} season cards.")
+
+    for i in range(total):
+        card = cards.nth(i)
+
+        # Get title
+        title = ""
+        try:
+            title = _normalize_space(card.locator('h3[data-testid="SeasonDetails-EF514D"]').inner_text())
+        except Exception:
+            title = ""
+
+        # Filter — skip if title doesn't contain the filter word
+        if not title or filter_word.lower() not in title.lower():
+            logger.debug(f"Skipping card #{i} '{title}' — does not match filter '{filter_word}'.")
+            continue
+
+        # Get dates and registration starts
+        date = ""
+        try:
+            items = card.locator("li")
+            for j in range(items.count()):
+                item = items.nth(j)
+                label = _normalize_space(item.locator("span").inner_text())
+                if label == "Dates":
+                    try:
+                        date = _normalize_space(item.locator("p").inner_text())
+                    except Exception:
+                        pass
+        except Exception:
+            pass
+
+        events.append(Event(title=title, date=date, time="", signup_url=signup_url))
+
+    return events
 
 # ----------------------------
 # Runner
@@ -175,8 +232,16 @@ def run(categories: Dict[str, Dict[str, str]], out_path: str = DEFAULT_OUT) -> D
                 payload["categories"][key] = {"label": label, "url": url, "events": []}
                 continue
 
-            try:
-                events = extract_events_from_page(page, url, logger)
+           try:
+                scrape_mode = meta.get("scrape_mode", "event_sessions")
+                signup_url = meta.get("signup_url", url)
+                filter_word = meta.get("filter", "")
+
+                if scrape_mode == "season_cards":
+                    events = extract_events_from_season_cards(page, signup_url, filter_word, logger)
+                else:
+                    events = extract_events_from_page(page, url, logger)
+
                 payload["categories"][key] = {
                     "label": label,
                     "url": url,
