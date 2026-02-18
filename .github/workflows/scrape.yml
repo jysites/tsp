@@ -44,13 +44,15 @@ jobs:
       - name: Install Playwright browsers
         run: playwright install chromium
 
-      - name: Run scraper
-        run: python bball_training_scrape.py --out data/bball_training.json
+      - name: Run scrapers
+        run: |
+          python bball_training_scrape.py --out data/bball_training.json
+          python bball_camps_scrape.py --out data/bball_camps.json
 
       - name: Commit and push updated JSON
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/bball_training.json
-          git diff --staged --quiet || git commit -m "chore: update bball training data [skip ci]"
+          git add data/bball_training.json data/bball_camps.json
+          git diff --staged --quiet || git commit -m "chore: update bball data [skip ci]"
           git push
