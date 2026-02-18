@@ -2,14 +2,14 @@ name: Scrape Basketball Training Data
 
 on:
   schedule:
-    - cron: '0 8 * * *'   # runs every day at 8am UTC (adjust to your timezone)
-  workflow_dispatch:        # allows manual trigger from GitHub UI anytime
+    - cron: '0 8 * * *'
+  workflow_dispatch:
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
     permissions:
-      contents: write       # needed so the action can commit back to the repo
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -23,7 +23,7 @@ jobs:
       - name: Install Python dependencies
         run: pip install -r requirements.txt
 
-     - name: Install system dependencies for Chromium
+      - name: Install system dependencies for Chromium
         run: |
           sudo apt-get update
           sudo apt-get install -y \
