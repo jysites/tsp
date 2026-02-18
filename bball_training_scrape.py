@@ -232,7 +232,7 @@ def run(categories: Dict[str, Dict[str, str]], out_path: str = DEFAULT_OUT) -> D
                 payload["categories"][key] = {"label": label, "url": url, "events": []}
                 continue
 
-           try:
+            try:
                 scrape_mode = meta.get("scrape_mode", "event_sessions")
                 signup_url = meta.get("signup_url", url)
                 filter_word = meta.get("filter", "")
