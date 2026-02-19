@@ -48,6 +48,7 @@ jobs:
         run: |
           python bball_training_scrape.py --out data/bball_training.json
           python bball_camps_scrape.py --out data/bball_camps.json
+          python vball_camps_scrape.py --out data/vball_camps.json
 
       - name: Commit and push updated JSON
         run: |
