@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-bball_camps_scrape.py
+vball_camps_scrape.py
 
 Scrapes the BondSports basketball camps page.
 Extracts: title, dates, registration_starts, signup_url
