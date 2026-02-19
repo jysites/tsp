@@ -63,36 +63,44 @@ def _normalize_space(s: str) -> str:
 def extract_camps(page, logger: logging.Logger) -> List[Camp]:
     camps: List[Camp] = []
 
-    # Wait for at least one season card to appear
     try:
         page.wait_for_selector('h3[data-testid="SeasonDetails-EF514D"]', timeout=WAIT_FOR_CARD_TIMEOUT_MS)
     except PlaywrightTimeoutError:
         logger.info("No season cards found (timed out). Returning empty list.")
         return camps
 
-    # Each camp card is a MuiBox div containing an h3 and a ul
-    cards = page.locator('div.css-1y8xm4p-SeasonDetails-boxItemCss')
-    total = cards.count()
-    logger.info(f"Found {total} camp cards.")
+    # Locate by the stable h3 testid, then go up to the MuiBox parent
+    # which is always the direct grandparent: h3 -> MuiBox div -> grid child div
+    headings = page.locator('h3[data-testid="SeasonDetails-EF514D"]')
+    total = headings.count()
+    logger.info(f"Found {total} season card headings.")
 
     for i in range(total):
-        card = cards.nth(i)
+        heading = headings.nth(i)
 
-        # Title
+        # Walk up two levels to get the MuiBox card container
+        card = heading.locator('xpath=../..')
+
         title = ""
         try:
-            title = _normalize_space(card.locator('h3[data-testid="SeasonDetails-EF514D"]').inner_text())
+            title = _normalize_space(heading.inner_text())
         except Exception:
             title = ""
 
-        # Dates and Registration Starts — loop through li items
+        if not title:
+            logger.debug(f"Skipping card #{i} — no title found.")
+            continue
+
         dates = ""
         registration_starts = ""
         try:
             items = card.locator("li")
             for j in range(items.count()):
                 item = items.nth(j)
-                label = _normalize_space(item.locator("span").inner_text())
+                try:
+                    label = _normalize_space(item.locator("span").inner_text())
+                except Exception:
+                    continue
                 value = ""
                 try:
                     value = _normalize_space(item.locator("p").inner_text())
@@ -106,9 +114,7 @@ def extract_camps(page, logger: logging.Logger) -> List[Camp]:
         except Exception:
             pass
 
-        if not title:
-            logger.debug(f"Skipping card #{i} — no title found.")
-            continue
+        logger.info(f"  Card #{i}: '{title}' | dates='{dates}' | reg='{registration_starts}'")
 
         camps.append(Camp(
             title=title,
@@ -118,7 +124,6 @@ def extract_camps(page, logger: logging.Logger) -> List[Camp]:
         ))
 
     return camps
-
 
 # ----------------------------
 # Runner
