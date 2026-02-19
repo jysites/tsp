@@ -1,1 +1,18 @@
-
+{
+  "generated_at": "2026-02-19T13:49:13.300363Z",
+  "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
+  "camps": [
+    {
+      "title": "SUMMER CAMP SESSION 1: 4TH-8TH",
+      "dates": "Jun 15 - Jun 18",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SUMMER CAMP SESSION 2: 4TH-8TH",
+      "dates": "Jul 20 - Jul 23",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    }
+  ]
+}
