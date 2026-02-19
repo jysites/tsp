@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-02-19T19:15:47.730071Z",
+  "generated_at": "2026-02-19T19:36:42.513969Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
@@ -12,6 +12,24 @@
       "title": "SUMMER CAMP SESSION 1: 4TH-8TH",
       "dates": "Jun 15 - Jun 18",
       "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SERVE & PASS CLINIC",
+      "dates": "Jun 15 - Jun 15",
+      "registration_starts": "Feb 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SETTER & HITTER CLINIC",
+      "dates": "Jun 16 - Jun 16",
+      "registration_starts": "Feb 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "COMPETITION CLINIC",
+      "dates": "Jun 18 - Jun 18",
+      "registration_starts": "Feb 19",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
