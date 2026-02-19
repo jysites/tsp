@@ -24,11 +24,11 @@ PAGE_TIMEOUT_MS = 30000
 WAIT_FOR_UL_TIMEOUT_MS = 20000
 
 CATEGORIES: Dict[str, Dict[str, str]] = {
-    "beginner": {
+    "intermediate": {
         "label": "Training: Intermediate 12/under",
         "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
     },
-    "intermediate": {
+    "advanced": {
         "label": "Training: Advanced 14U+",
         "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
     },
