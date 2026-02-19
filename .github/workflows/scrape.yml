@@ -1,4 +1,4 @@
-name: Scrape Basketball Training Data
+name: Scrape Sportsplex Data
 
 on:
   schedule:
