@@ -2,7 +2,7 @@
 """
 vball_camps_scrape.py
 
-Scrapes the BondSports basketball camps page.
+Scrapes the BondSports volleyball camps page.
 Extracts: title, dates, registration_starts, signup_url
 Writes to a single JSON file.
 """
