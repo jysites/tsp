@@ -29,8 +29,12 @@ CATEGORIES: Dict[str, Dict[str, str]] = {
         "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
     },
     "advanced": {
-        "label": "Training: Advanced 14U+",
+        "label": "Training: Advanced 13U+",
         "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
+    },
+    "individual": {
+        "label": "Individual Training 10+",
+        "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
     },
 }
 
