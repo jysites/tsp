@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-01T16:42:14.013210Z",
+  "generated_at": "2026-04-02T01:07:38.329636Z",
   "categories": {
     "beginner": {
       "label": "Training: Beginner 2nd-4th",
@@ -107,12 +107,6 @@
       "label": "Training: Intermediate 5th-8th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916",
       "events": [
-        {
-          "title": "APRIL 1 TRAINING",
-          "date": "Apr 01",
-          "time": "3:30PM - 4:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
         {
           "title": "APRIL 2 TRAINING",
           "date": "Apr 02",
@@ -336,12 +330,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
       "events": [
         {
-          "title": "APRIL 1 TRAINING",
-          "date": "Apr 01",
-          "time": "3:30PM - 4:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
-        {
           "title": "APRIL 2 TRAINING",
           "date": "Apr 02",
           "time": "3:30PM - 4:30PM",
@@ -350,7 +338,7 @@
         {
           "title": "APRIL 2ND - TRAINING",
           "date": "Apr 02",
-          "time": "7:00PM - 8:00PM",
+          "time": "7:15PM - 8:15PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         },
         {
@@ -582,14 +570,14 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
       "events": [
         {
-          "title": "APRIL GROUP TRAINING: 4TH-6TH",
-          "date": "Apr 02 - Apr 30",
+          "title": "MAY GROUP TRAINING: 4TH-6TH",
+          "date": "May 05 - May 28",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "MAY GROUP TRAINING: 4TH-6TH",
-          "date": "May 05 - May 28",
+          "title": "APRIL GROUP TRAINING: 4TH-6TH",
+          "date": "Apr 02 - Apr 30",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
