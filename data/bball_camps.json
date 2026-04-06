@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-04-05T16:22:11.942020Z",
+  "generated_at": "2026-04-06T01:13:19.449394Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
-    {
-      "title": "SPRING BREAK CAMP 2026",
-      "dates": "Apr 06 - Apr 09",
-      "registration_starts": "Feb 16",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
     {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 1",
       "dates": "Jun 01 - Jun 04",
@@ -29,6 +23,12 @@
     {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
       "dates": "Jul 27 - Jul 30",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SPRING BREAK CAMP 2026",
+      "dates": "Apr 06 - Apr 09",
       "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
