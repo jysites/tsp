@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20T09:30:02.234566Z",
+  "generated_at": "2026-04-20T16:51:07.693509Z",
   "categories": {
     "beginner": {
       "label": "Training: Beginner 2nd-4th",
@@ -90,12 +90,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916",
       "events": [
         {
-          "title": "APRIL 20 TRAINING",
-          "date": "Apr 20",
-          "time": "3:30PM - 4:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
-        {
           "title": "APRIL 21 TRAINING",
           "date": "Apr 21",
           "time": "4:00PM - 5:00PM",
@@ -133,6 +127,12 @@
         },
         {
           "title": "APRIL 29 TRAINING",
+          "date": "Apr 29",
+          "time": "3:30PM - 4:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "APRIL 20 TRAINING",
           "date": "Apr 29",
           "time": "3:30PM - 4:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
@@ -263,12 +263,6 @@
       "label": "Training: Advanced 9th-12th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
       "events": [
-        {
-          "title": "APRIL 20 TRAINING",
-          "date": "Apr 20",
-          "time": "3:30PM - 4:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
         {
           "title": "APRIL 21 TRAINING",
           "date": "Apr 21",
