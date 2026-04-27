@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T10:11:19.247820Z",
+  "generated_at": "2026-04-27T17:22:09.377000Z",
   "categories": {
     "intermediate": {
       "label": "Training: Intermediate 12/under",
@@ -12,7 +12,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "MAY 5 ALL SKILLS",
+          "title": "MAY 5 SERVE/PASS",
           "date": "May 05",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -24,7 +24,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "MAY 14 ALL SKILLS",
+          "title": "MAY 14 SERVE/PASS",
           "date": "May 14",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -136,6 +136,18 @@
           "date": "May 24",
           "time": "12:00PM - 1:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "JULY 9 ATTACKING: JORDAN STEPHENS WOODS",
+          "date": "Jul 09",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "JULY 30 ATTACKING: JORDAN STEPHENS WOODS",
+          "date": "Jul 30",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         }
       ]
     },
@@ -153,6 +165,18 @@
           "title": "PRIVATE LESSON: BEVERLY RUSSELL",
           "date": "Apr 29",
           "time": "3:15PM - 4:15PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "PRIVATE LESSON- ATTACKING FOCUS: JORDAN STEPHENS WOODS",
+          "date": "Jul 09",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "PRIVATE LESSON- ATTACKING FOCUS: JORDAN STEPHENS WOODS",
+          "date": "Jul 30",
+          "time": "3:00PM - 4:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         }
       ]
