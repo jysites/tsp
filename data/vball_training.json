@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04T17:27:22.086147Z",
+  "generated_at": "2026-05-05T01:36:12.381242Z",
   "categories": {
     "intermediate": {
       "label": "Training: Intermediate 12/under",
@@ -124,133 +124,12 @@
     "advanced": {
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
-      "events": [
-        {
-          "title": "MAY 6: BEVERLY RUSSELL",
-          "date": "May 06",
-          "time": "3:15PM - 4:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 7: SETTER/HITTER- BEVERLY RUSSELL",
-          "date": "May 07",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 11: BEVERLY RUSSELL",
-          "date": "May 11",
-          "time": "3:15PM - 4:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 12 DEFENSE: RILEY WALL",
-          "date": "May 12",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 13: BEVERLY RUSSELL",
-          "date": "May 13",
-          "time": "3:15PM - 4:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 19 DEFENSE: RILEY WALL",
-          "date": "May 19",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 19 SETTER/HITTER TRAINING: GABI DUHON",
-          "date": "May 19",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 24 SERVE/PASS TRAINING: JOSH FREEMAN",
-          "date": "May 24",
-          "time": "9:00AM - 10:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 24 ATTACKING TRAINING: JOSH FREEMAN",
-          "date": "May 24",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 24 DEFENSE/LIBERO TRAINING: RILEY WALL",
-          "date": "May 24",
-          "time": "11:00AM - 12:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 24 MIDDLE SCHOOL TRAINING: RILEY WALL",
-          "date": "May 24",
-          "time": "12:00PM - 1:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 26 PASSER/SETTER TRAINING: MACKENZIE BAER",
-          "date": "May 26",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "MAY 26 SETTER/HITTER TRAINING: GABI DUHON",
-          "date": "May 26",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JUNE 1 SERVE/PASS TRAINING: GABI DUHON",
-          "date": "Jun 01",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JUNE 14 SERVE/PASS TRAINING: GABI DUHON",
-          "date": "Jun 14",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JUNE 23 SETTER/HITTER TRAINING: GABI DUHON",
-          "date": "Jun 23",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JUNE 27 SERVE/PASS TRAINING: GABI DUHON",
-          "date": "Jun 27",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JULY 9 ATTACKING: JORDAN STEPHENS WOODS",
-          "date": "Jul 09",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JULY 30 ATTACKING: JORDAN STEPHENS WOODS",
-          "date": "Jul 30",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        }
-      ]
+      "events": []
     },
     "individual": {
       "label": "Individual Training 10+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
-        {
-          "title": "PRIVATE LESSON: BEVERLY RUSSELL",
-          "date": "May 04",
-          "time": "3:15PM - 4:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
         {
           "title": "PRIVATE LESSON- ATTACKING FOCUS: JORDAN STEPHENS WOODS",
           "date": "Jul 09",
