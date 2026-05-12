@@ -1,19 +1,7 @@
 {
-  "generated_at": "2026-05-11T17:58:44.045681Z",
+  "generated_at": "2026-05-12T01:57:18.497417Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
-    {
-      "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
-      "dates": "May 12 - May 26",
-      "registration_starts": "Feb 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
-      "title": "HIGH SCHOOL PREP COMPETITION CLINIC: SESSION 1",
-      "dates": "May 12 - May 12",
-      "registration_starts": "Feb 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
     {
       "title": "HIGH SCHOOL PREP COMPETITION CLINIC: SESSION 2",
       "dates": "May 14 - May 14",
@@ -66,6 +54,18 @@
       "title": "SUMMER CAMP SESSION 2: 4TH-8TH",
       "dates": "Jul 20 - Jul 23",
       "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
+      "dates": "May 12 - May 26",
+      "registration_starts": "Feb 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "HIGH SCHOOL PREP COMPETITION CLINIC: SESSION 1",
+      "dates": "May 12 - May 12",
+      "registration_starts": "Feb 19",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ]
