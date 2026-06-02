@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-06-01T20:18:52.811181Z",
+  "generated_at": "2026-06-02T02:24:01.930782Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
-    {
-      "title": "VOLLEY TOGETHER: FAMILY SERIES",
-      "dates": "Jun 02 - Jun 23",
-      "registration_starts": "Feb 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
     {
       "title": "TRAIN & PLAY SERIES: 3RD - 4TH GRADES",
       "dates": "Jun 04 - Jun 25",
@@ -132,6 +126,12 @@
       "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
       "dates": "Oct 06 - Nov 10",
       "registration_starts": "May 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "VOLLEY TOGETHER: FAMILY SERIES",
+      "dates": "Jun 02 - Jun 23",
+      "registration_starts": "Feb 19",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
