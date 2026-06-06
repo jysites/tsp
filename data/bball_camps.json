@@ -1,5 +1,150 @@
 {
-  "generated_at": "2026-06-06T01:55:15.245483Z",
+  "generated_at": "2026-06-06T09:51:17.231916Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
-  "camps": []
+  "camps": [
+    {
+      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 2",
+      "dates": "Jun 08 - Jun 11",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL MINI CAMP 2026: 3RD-6TH",
+      "dates": "Jun 22 - Jun 26",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL MINI CAMP 2026: K-2ND",
+      "dates": "Jun 29 - Jul 03",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER GIRL'S BASKETBALL CAMP 2026: JULY 1-3",
+      "dates": "Jul 01 - Jul 03",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 3",
+      "dates": "Jul 06 - Jul 09",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER GIRL'S BASKETBALL CAMP 2026: JULY 16-18",
+      "dates": "Jul 16 - Jul 18",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
+      "dates": "Jul 27 - Jul 30",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "HEAD START HOOPS: PREK/K",
+      "dates": "Aug 17 - Sep 28",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "NEXT LEVEL TRAINING: FOUNDATIONS TRAINING (1ST-2ND)",
+      "dates": "Aug 17 - Sep 28",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "PLAYER DEVELOPMENT ACADEMY: 5TH-6TH",
+      "dates": "Aug 18 - Oct 20",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "GAME READY HOOPS: DEVELOPMENT TRAINING (3RD-4TH)",
+      "dates": "Aug 18 - Sep 22",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "PUREFORM SHOOTING LAB (6TH-8TH)",
+      "dates": "Aug 20 - Oct 22",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "PLAYER DEVELOPMENT ACADEMY: 7TH-8TH",
+      "dates": "Aug 20 - Oct 15",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SHOOTING COMBINE - AUGUST 29, 2026",
+      "dates": "Aug 29 - Aug 29",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SHOOTING COMBINE - SEPTEMBER 12, 2026",
+      "dates": "Sep 12 - Sep 12",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SHARP SHOOTER ACADEMY (3RD-4TH)",
+      "dates": "Sep 29 - Oct 20",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "PUREFORM SHOOTING LAB 2 (6TH-8TH)",
+      "dates": "Oct 05 - Oct 26",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "MOVEMENT SHOOTING COMBINE - OCTOBER 18, 2026",
+      "dates": "Oct 18 - Oct 18",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "THANKSGIVING CAMP 2026",
+      "dates": "Nov 23 - Nov 24",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "CHRISTMAS CAMP 2026",
+      "dates": "Dec 21 - Dec 23",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "NEW YEAR'S CAMP 2026",
+      "dates": "Dec 28 - Dec 30",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "MARDI GRAS CAMP 2026",
+      "dates": "Feb 16 - Feb 19",
+      "registration_starts": "Dec 09",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SPRING BREAK CAMP 2026",
+      "dates": "Apr 06 - Apr 09",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 1",
+      "dates": "Jun 01 - Jun 04",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    }
+  ]
 }
