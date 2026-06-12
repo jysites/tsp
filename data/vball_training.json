@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T19:03:02.960605Z",
+  "generated_at": "2026-06-12T02:33:40.062752Z",
   "categories": {
     "intermediate": {
       "label": "Training: Intermediate 12/under",
@@ -54,13 +54,37 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
+          "title": "JULY 1 ALL SKILL: GABI",
+          "date": "Jul 01",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "JULY 1 ADVANCED ALL SKILL: GABI",
+          "date": "Jul 01",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
           "title": "JULY 2 ALL SKILLS: ADDISON GUY",
           "date": "Jul 02",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "JULY 2 SERVE/PASS: MADISON CASSIDY",
+          "title": "JULY 1 BEGINNER ALL SKILL: GABI",
+          "date": "Jul 02",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "JULY 2 SERVE/PASS: RILEY",
+          "date": "Jul 02",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "JULY 2 SERVE/PASS: RILEY",
           "date": "Jul 02",
           "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -71,12 +95,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "JUNE 11 DEFENSE/FIRST CONTACT: MADISON CASSIDY",
-          "date": "Jun 11",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "JUNE 14 SERVE/PASS TRAINING: GABI DUHON",
           "date": "Jun 14",
@@ -156,9 +174,21 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "JULY 1 DEFENSE/ FIRST CONTACT: RILEY",
+          "date": "Jul 01",
+          "time": "6:30PM - 7:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "JULY 2 SERVE/PASS: MADISON CASSIDY",
           "date": "Jul 02",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "JULY 2 DEFENSE/FIRST CONTACT: MADISON",
+          "date": "Jul 02",
+          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -246,12 +276,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "JUNE 11 PRIVATE LESSON- MADISON CASSIDY",
-          "date": "Jun 11",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "JUNE 16 PRIVATE LESSON: ELISE LATHON",
           "date": "Jun 16",
           "time": "4:30PM - 5:30PM",
@@ -297,6 +321,12 @@
           "title": "JUNE 30 PRIVATE LESSON: ADDISON GUY *AGES 12U*",
           "date": "Jun 30",
           "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "JULY 1 PRIVATE LESSON: RILEY WALL",
+          "date": "Jul 01",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
