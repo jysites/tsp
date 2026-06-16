@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-06-15T19:46:07.243660Z",
+  "generated_at": "2026-06-16T02:42:34.810670Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
-    {
-      "title": "SETTER & HITTER CLINIC (INCOMING 9TH-12TH)",
-      "dates": "Jun 16 - Jun 16",
-      "registration_starts": "Feb 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
     {
       "title": "COMPETITION CLINIC (INCOMING 9TH-12TH)",
       "dates": "Jun 18 - Jun 18",
@@ -149,6 +143,12 @@
     {
       "title": "SERVE & PASS CLINIC (INCOMING 9TH-12TH)",
       "dates": "Jun 15 - Jun 15",
+      "registration_starts": "Feb 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SETTER & HITTER CLINIC (INCOMING 9TH-12TH)",
+      "dates": "Jun 16 - Jun 16",
       "registration_starts": "Feb 19",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
