@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T10:41:46.880320Z",
+  "generated_at": "2026-06-28T15:12:39.476250Z",
   "categories": {
     "intermediate": {
       "label": "Training: Intermediate 12/under",
@@ -15,6 +15,12 @@
           "title": "JUNE 30 ALL SKILLS: ADDISON GUY",
           "date": "Jun 30",
           "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "JULY 1 SERVE/PASS: LAUREL CASSIDY",
+          "date": "Jul 01",
+          "time": "3:30PM - 4:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
@@ -210,6 +216,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
+          "title": "JUNE 30 SERVE/PASS: LAUREL CASSIDY",
+          "date": "Jun 30",
+          "time": "3:00PM - 4:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "JUNE 30 SETTER/HITTER: MADISON CASSIDY",
           "date": "Jun 30",
           "time": "5:30PM - 6:30PM",
@@ -396,6 +408,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
+          "title": "JUNE 29 PRIVATE LESSON: MADISON CASSIDY",
+          "date": "Jun 29",
+          "time": "7:30PM - 8:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "JUNE 30 PRIVATE LESSON: ELISE LATHON",
           "date": "Jun 30",
           "time": "4:00PM - 5:00PM",
@@ -408,9 +426,21 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "JULY 1 PRIVATE LESSON: LAUREL CASSIDY *DEFENSE FOCUS*",
+          "date": "Jul 01",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "JULY 1 PRIVATE LESSON: RILEY WALL *DEFENSE FOCUS*",
           "date": "Jul 01",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "JULY 1 PRIVATE LESSON: MADISON CASSIDY",
+          "date": "Jul 01",
+          "time": "7:30PM - 8:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
