@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-06-28T16:54:45.867094Z",
+  "generated_at": "2026-06-29T02:05:13.278571Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
-    {
-      "title": "SUMMER BASKETBALL MINI CAMP 2026: K-6TH",
-      "dates": "Jun 29 - Jul 03",
-      "registration_starts": "Feb 16",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
     {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 3",
       "dates": "Jul 06 - Jul 09",
@@ -108,6 +102,12 @@
       "title": "NEW YEAR'S CAMP 2026",
       "dates": "Dec 28 - Dec 30",
       "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL MINI CAMP 2026: K-6TH",
+      "dates": "Jun 29 - Jul 03",
+      "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
