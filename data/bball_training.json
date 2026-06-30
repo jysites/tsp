@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-06-30T01:59:40.553236Z",
+  "generated_at": "2026-06-30T10:46:14.372282Z",
   "categories": {
     "beginner": {
       "label": "Training: Beginner 2nd-4th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915",
       "events": [
+        {
+          "title": "JULY 2ND TRAINING",
+          "date": "Jul 02",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
         {
           "title": "JULY 6TH TRAINING",
           "date": "Jul 06",
@@ -69,12 +75,6 @@
           "title": "JULY 1ST TRAINING",
           "date": "Jul 01",
           "time": "3:00PM - 4:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
-        {
-          "title": "JULY 2ND TRAINING",
-          "date": "Jul 02",
-          "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
