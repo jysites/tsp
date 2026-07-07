@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-07-06T18:15:25.302055Z",
+  "generated_at": "2026-07-07T02:01:50.957919Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
-    {
-      "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
-      "dates": "Jul 07 - Jul 28",
-      "registration_starts": "Feb 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
     {
       "title": "ATTACK MODE: HITTER’S CLINIC- JULY 13",
       "dates": "Jul 13 - Jul 13",
@@ -96,6 +90,12 @@
       "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
       "dates": "Oct 06 - Nov 10",
       "registration_starts": "May 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
+      "dates": "Jul 07 - Jul 28",
+      "registration_starts": "Feb 19",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
