@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T17:53:05.209768Z",
+  "generated_at": "2026-07-09T01:28:28.932933Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
@@ -123,12 +123,6 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
-      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 3",
-      "dates": "Jul 06 - Jul 09",
-      "registration_starts": "Feb 16",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "MARDI GRAS CAMP 2026",
       "dates": "Feb 16 - Feb 19",
       "registration_starts": "Dec 09",
@@ -161,6 +155,12 @@
     {
       "title": "SUMMER BASKETBALL MINI CAMP 2026: K-6TH",
       "dates": "Jun 29 - Jul 03",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 3",
+      "dates": "Jul 06 - Jul 09",
       "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
