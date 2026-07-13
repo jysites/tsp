@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-07-12T16:55:00.491295Z",
+  "generated_at": "2026-07-13T01:36:06.764484Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
-    {
-      "title": "ATTACK MODE: HITTER’S CLINIC- JULY 13",
-      "dates": "Jul 13 - Jul 13",
-      "registration_starts": "May 27",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
     {
       "title": "DIG DEEP: DEFENSE & PASSING CLINIC - JULY 14",
       "dates": "Jul 14 - Jul 14",
@@ -144,6 +138,12 @@
       "title": "SETTER & HITTER CLINIC (INCOMING 9TH-12TH)",
       "dates": "Jun 16 - Jun 16",
       "registration_starts": "Feb 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "ATTACK MODE: HITTER’S CLINIC- JULY 13",
+      "dates": "Jul 13 - Jul 13",
+      "registration_starts": "May 27",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ]
