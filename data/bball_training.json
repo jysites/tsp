@@ -191,7 +191,55 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         }
       ]
+    },
+    "individual": {
+      "label": "Individual Training",
+      "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
+      "events": [
+        {
+          "title": "INDIVIDUAL LESSON: EDDIE",
+          "date": "Jul 21",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        },
+        {
+          "title": "INDIVIDUAL LESSON: EDDIE",
+          "date": "Jul 21",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        },
+        {
+          "title": "INDIVIDUAL LESSON: JULY 23",
+          "date": "Jul 23",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        },
+        {
+          "title": "INDIVIDUAL TRAINING: EDDIE",
+          "date": "Jul 28",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        },
+        {
+          "title": "INDIVIDUAL LESSON: EDDIE",
+          "date": "Jul 29",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        },
+        {
+          "title": "INDIVIDUAL LESSON: JULY 29",
+          "date": "Jul 29",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        },
+        {
+          "title": "INDIVIDUAL LESSON: EDDIE",
+          "date": "Jul 30",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
+        }
+      ]
     }
   },
-  "generated_at": "2026-07-14T17:34:29.661420+00:00"
+  "generated_at": "2026-07-14T18:14:09.783389+00:00"
 }
