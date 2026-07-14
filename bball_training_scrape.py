@@ -49,6 +49,13 @@ CATEGORIES: Dict[str, Dict[str, str]] = {
         "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
         "scrape_mode": "season_cards",
     },
+    "individual": {
+        "label": "Individual Training",
+        "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
+        "filter": "individual",
+        "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
+        "scrape_mode": "season_cards",
+    },
 }
 
 
