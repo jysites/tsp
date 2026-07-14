@@ -1,36 +1,45 @@
 #!/usr/bin/env python3
 """
-vball_camps_scrape.py
-
 Scrapes the BondSports volleyball camps page.
-Extracts: title, dates, registration_starts, signup_url
-Writes to a single JSON file.
+
+Extracts:
+- title
+- dates
+- registration_starts
+- signup_url
+
+The existing JSON file is preserved when:
+- the scrape fails;
+- required page content cannot be found;
+- the newly scraped sports data is unchanged.
 """
 
-import json
+from __future__ import annotations
+
 import logging
-import os
 import re
-from dataclasses import dataclass, asdict
-from datetime import datetime
+from dataclasses import asdict, dataclass
 from typing import List
 
-from playwright.sync_api import sync_playwright, TimeoutError as PlaywrightTimeoutError
+from playwright.sync_api import (
+    TimeoutError as PlaywrightTimeoutError,
+    sync_playwright,
+)
 
-# ----------------------------
-# Configuration
-# ----------------------------
+from json_utils import write_json_if_changed
+
+
 DEFAULT_OUT = "data/vball_camps.json"
 LOG_FORMAT = "%(asctime)s %(levelname)s %(message)s"
-PAGE_TIMEOUT_MS = 30000
-WAIT_FOR_CARD_TIMEOUT_MS = 20000
+PAGE_TIMEOUT_MS = 30_000
+WAIT_FOR_CARD_TIMEOUT_MS = 20_000
 
-CAMPS_URL = "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+CAMPS_URL = (
+    "https://bondsports.co/activity/programs/"
+    "CO_ED-youth-VOLLEYBALL/13552"
+)
 
 
-# ----------------------------
-# Model
-# ----------------------------
 @dataclass
 class Camp:
     title: str
@@ -39,142 +48,184 @@ class Camp:
     signup_url: str
 
 
-# ----------------------------
-# Helpers
-# ----------------------------
 def setup_logger() -> logging.Logger:
     logger = logging.getLogger("vball_camps_scraper")
     logger.setLevel(logging.INFO)
+
     if logger.handlers:
         return logger
-    ch = logging.StreamHandler()
-    ch.setFormatter(logging.Formatter(LOG_FORMAT))
-    logger.addHandler(ch)
+
+    handler = logging.StreamHandler()
+    handler.setFormatter(logging.Formatter(LOG_FORMAT))
+    logger.addHandler(handler)
     return logger
 
 
-def _normalize_space(s: str) -> str:
-    return re.sub(r"\s+", " ", (s or "")).strip()
+def _normalize_space(value: str) -> str:
+    return re.sub(r"\s+", " ", (value or "")).strip()
 
 
-# ----------------------------
-# Extraction
-# ----------------------------
 def extract_camps(page, logger: logging.Logger) -> List[Camp]:
     camps: List[Camp] = []
 
     try:
-        page.wait_for_selector('h3[data-testid="SeasonDetails-EF514D"]', timeout=WAIT_FOR_CARD_TIMEOUT_MS)
-    except PlaywrightTimeoutError:
-        logger.info("No season cards found (timed out). Returning empty list.")
-        return camps
+        page.wait_for_selector(
+            'h3[data-testid="SeasonDetails-EF514D"]',
+            timeout=WAIT_FOR_CARD_TIMEOUT_MS,
+        )
+    except PlaywrightTimeoutError as exc:
+        raise RuntimeError(
+            "No volleyball camp season cards were found before timeout. "
+            "The existing JSON file will not be replaced."
+        ) from exc
 
-    # Locate by the stable h3 testid, then go up to the MuiBox parent
-    # which is always the direct grandparent: h3 -> MuiBox div -> grid child div
-    headings = page.locator('h3[data-testid="SeasonDetails-EF514D"]')
+    headings = page.locator(
+        'h3[data-testid="SeasonDetails-EF514D"]'
+    )
     total = headings.count()
-    logger.info(f"Found {total} season card headings.")
+    logger.info("Found %s season card headings.", total)
 
-    for i in range(total):
-        heading = headings.nth(i)
+    if total == 0:
+        raise RuntimeError(
+            "The volleyball camps page returned zero season card headings."
+        )
 
-        # Walk up two levels to get the MuiBox card container
-        card = heading.locator('xpath=../..')
+    for index in range(total):
+        heading = headings.nth(index)
 
-        title = ""
+        # Kept exactly as requested.
+        card = heading.locator("xpath=../..")
+
         try:
             title = _normalize_space(heading.inner_text())
-        except Exception:
-            title = ""
+        except Exception as exc:
+            logger.warning(
+                "Could not read title for card #%s: %s",
+                index,
+                exc,
+            )
+            continue
 
         if not title:
-            logger.debug(f"Skipping card #{i} — no title found.")
+            logger.warning("Skipping card #%s because its title is empty.", index)
             continue
 
         dates = ""
         registration_starts = ""
+
         try:
             items = card.locator("li")
-            for j in range(items.count()):
-                item = items.nth(j)
+
+            for item_index in range(items.count()):
+                item = items.nth(item_index)
+
                 try:
-                    label = _normalize_space(item.locator("span").inner_text())
-                except Exception:
+                    label = _normalize_space(
+                        item.locator("span").inner_text()
+                    )
+                except Exception as exc:
+                    logger.warning(
+                        "Could not read label from card #%s item #%s: %s",
+                        index,
+                        item_index,
+                        exc,
+                    )
                     continue
-                value = ""
+
                 try:
-                    value = _normalize_space(item.locator("p").inner_text())
+                    value = _normalize_space(
+                        item.locator("p").inner_text()
+                    )
                 except Exception:
-                    pass
+                    value = ""
 
                 if label == "Dates":
                     dates = value
                 elif label == "Registration Starts":
                     registration_starts = value
-        except Exception:
-            pass
 
-        logger.info(f"  Card #{i}: '{title}' | dates='{dates}' | reg='{registration_starts}'")
+        except Exception as exc:
+            logger.warning(
+                "Could not read detail items from card #%s: %s",
+                index,
+                exc,
+            )
 
-        camps.append(Camp(
-            title=title,
-            dates=dates,
-            registration_starts=registration_starts,
-            signup_url=CAMPS_URL,
-        ))
+        logger.info(
+            "Card #%s: %r | dates=%r | registration=%r",
+            index,
+            title,
+            dates,
+            registration_starts,
+        )
+
+        camps.append(
+            Camp(
+                title=title,
+                dates=dates,
+                registration_starts=registration_starts,
+                signup_url=CAMPS_URL,
+            )
+        )
+
+    if not camps:
+        raise RuntimeError(
+            "Volleyball camps extraction produced zero valid camps. "
+            "The existing JSON file will not be replaced."
+        )
 
     return camps
 
 
-# ----------------------------
-# Runner
-# ----------------------------
 def run(out_path: str = DEFAULT_OUT) -> dict:
     logger = setup_logger()
-    payload = {
-        "generated_at": datetime.utcnow().isoformat() + "Z",
-        "signup_url": CAMPS_URL,
-        "camps": [],
-    }
 
-    with sync_playwright() as p:
-        browser = p.chromium.launch(headless=True)
+    with sync_playwright() as playwright:
+        browser = playwright.chromium.launch(headless=True)
         context = browser.new_context()
         page = context.new_page()
 
-        logger.info(f"Loading {CAMPS_URL}")
         try:
-            page.goto(CAMPS_URL, wait_until="networkidle", timeout=PAGE_TIMEOUT_MS)
-        except PlaywrightTimeoutError:
-            logger.warning("Page load timed out.")
-        except Exception as e:
-            logger.exception(f"Error loading page: {e}")
+            logger.info("Loading %s", CAMPS_URL)
+            page.goto(
+                CAMPS_URL,
+                wait_until="domcontentloaded",
+                timeout=PAGE_TIMEOUT_MS,
+            )
 
-        try:
             camps = extract_camps(page, logger)
-            payload["camps"] = [asdict(c) for c in camps]
-            logger.info(f"Found {len(camps)} camps total.")
-        except Exception as e:
-            logger.exception(f"Extraction error: {e}")
 
-        page.close()
-        context.close()
-        browser.close()
+        except PlaywrightTimeoutError as exc:
+            raise RuntimeError(
+                "Volleyball camps page navigation timed out. "
+                "The existing JSON file will not be replaced."
+            ) from exc
 
-    os.makedirs(os.path.dirname(os.path.abspath(out_path)), exist_ok=True)
-    with open(out_path, "w", encoding="utf-8") as f:
-        json.dump(payload, f, ensure_ascii=False, indent=2)
+        finally:
+            page.close()
+            context.close()
+            browser.close()
 
-    logger.info(f"Wrote output to {out_path}")
+    payload = {
+        "signup_url": CAMPS_URL,
+        "camps": [asdict(camp) for camp in camps],
+    }
+
+    changed = write_json_if_changed(out_path, payload)
+
+    if changed:
+        logger.info("Sports data changed. Updated %s", out_path)
+    else:
+        logger.info("No sports data changes. Left %s untouched.", out_path)
+
     return payload
 
 
-# ----------------------------
-# CLI
-# ----------------------------
 if __name__ == "__main__":
     import argparse
-    ap = argparse.ArgumentParser()
-    ap.add_argument("--out", default=DEFAULT_OUT)
-    args = ap.parse_args()
-    run(out_path=args.out)
+
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--out", default=DEFAULT_OUT)
+    arguments = parser.parse_args()
+
+    run(out_path=arguments.out)
