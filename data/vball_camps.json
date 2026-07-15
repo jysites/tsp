@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-07-14T17:12:45.428490Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
-    {
-      "title": "TOTAL GAME: ALL SKILLS CLINIC- JULY 15",
-      "dates": "Jul 15 - Jul 15",
-      "registration_starts": "May 27",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
     {
       "title": "BIG REPS COMPETITION CLINIC- JULY 16",
       "dates": "Jul 16 - Jul 16",
@@ -145,6 +138,13 @@
       "dates": "Jul 14 - Jul 14",
       "registration_starts": "May 27",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "TOTAL GAME: ALL SKILLS CLINIC- JULY 15",
+      "dates": "Jul 15 - Jul 15",
+      "registration_starts": "May 27",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
-  ]
+  ],
+  "generated_at": "2026-07-15T01:21:08.780158+00:00"
 }

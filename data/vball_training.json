@@ -1,32 +1,13 @@
 {
-  "generated_at": "2026-07-14T17:24:48.799484Z",
   "categories": {
     "intermediate": {
       "label": "Training: Intermediate 12/under",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "JULY 14 SERVE/PASS: GABI",
-          "date": "Jul 14",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "JULY 14 SERVE/PASS: GABI",
-          "date": "Jul 14",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "JULY 16 SERVE/PASS: LEXIE",
           "date": "Jul 16",
           "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "JULY 16 SERVE/PASS: LEXIE",
-          "date": "Jul 16",
-          "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
@@ -101,12 +82,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "JULY 14 PASSER/SETTER: MADISON CASSIDY",
-          "date": "Jul 14",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "JULY 16 SETTER/HITTER: GABI",
           "date": "Jul 16",
@@ -228,24 +203,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "JULY 14 PRIVATE LESSON: LAUREL CASSIDY",
-          "date": "Jul 14",
-          "time": "3:00PM - 4:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 14 PRIVATE LESSON: ELISE LATHAN",
-          "date": "Jul 14",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 14 PRIVATE LESSON- MADISON CASSIDY",
-          "date": "Jul 14",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "JULY 14 PRIVATE LESSON: MADISON CASSIDY",
           "date": "Jul 14",
           "time": "7:30PM - 8:30PM",
@@ -273,6 +230,12 @@
           "title": "JULY 16 PRIVATE LESSON- MADISON CASSIDY",
           "date": "Jul 16",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "JULY 16 PRIVATE LESSON: GABI DUHON",
+          "date": "Jul 16",
+          "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -343,5 +306,6 @@
         }
       ]
     }
-  }
+  },
+  "generated_at": "2026-07-15T01:09:14.515480+00:00"
 }
