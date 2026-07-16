@@ -1,13 +1,6 @@
 {
-  "generated_at": "2026-07-14T16:59:12.223227Z",
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
-    {
-      "title": "SUMMER GIRL'S BASKETBALL CAMP 2026: JULY 16-18",
-      "dates": "Jul 16 - Jul 18",
-      "registration_starts": "Feb 16",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
     {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
       "dates": "Jul 27 - Jul 30",
@@ -123,6 +116,12 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "SUMMER GIRL'S BASKETBALL CAMP 2026: JULY 16-18",
+      "dates": "Jul 16 - Jul 18",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "MARDI GRAS CAMP 2026",
       "dates": "Feb 16 - Feb 19",
       "registration_starts": "Dec 09",
@@ -164,5 +163,6 @@
       "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
-  ]
+  ],
+  "generated_at": "2026-07-16T01:31:25.671427+00:00"
 }
