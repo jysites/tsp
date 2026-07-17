@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "JULY 16 SERVE/PASS: LEXIE",
-          "date": "Jul 16",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "JULY 19 SERVE/PASS: GABI",
           "date": "Jul 19",
           "time": "9:00AM - 10:00AM",
@@ -82,18 +76,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "JULY 16 SETTER/HITTER: GABI",
-          "date": "Jul 16",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JULY 16 DEFENSE/FIRST CONTACT: MADISON CASSIDY",
-          "date": "Jul 16",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "JULY 18 ATTACKING/TRANSITION: AJ",
           "date": "Jul 18",
@@ -191,30 +173,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "JULY 16 PRIVATE LESSON: LAUREL CASSIDY",
-          "date": "Jul 16",
-          "time": "3:00PM - 4:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 16 PRIVATE LESSON- MADISON CASSIDY",
-          "date": "Jul 16",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 16 PRIVATE LESSON: GABI DUHON",
-          "date": "Jul 16",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 16 PRIVATE LESSON: GABI DUHON",
-          "date": "Jul 16",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "JULY 16 PRIVATE LESSON: MADISON CASSIDY",
           "date": "Jul 16",
           "time": "7:30PM - 8:30PM",
@@ -239,9 +197,21 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "JULY 21 PRIVATE LESSON: RILEY WALL",
+          "date": "Jul 21",
+          "time": "3:30PM - 4:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "JULY 21 PRIVATE LESSON- MADISON CASSIDY",
           "date": "Jul 21",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "JULY 24 PRIVATE LESSON: RILEY WALL",
+          "date": "Jul 24",
+          "time": "3:00PM - 4:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -277,5 +247,5 @@
       ]
     }
   },
-  "generated_at": "2026-07-16T16:59:26.767194+00:00"
+  "generated_at": "2026-07-17T01:21:29.029086+00:00"
 }
