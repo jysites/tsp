@@ -95,6 +95,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "JULY 21 ATTACKING/BLOCKING: AJ",
+          "date": "Jul 21",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "JULY 23 SETTER/HITTER: MADISON CASSIDY",
           "date": "Jul 23",
           "time": "5:30PM - 6:30PM",
@@ -104,6 +110,12 @@
           "title": "JULY 23 SERVING/ATTACKING: MADISON CASSIDY",
           "date": "Jul 23",
           "time": "6:30PM - 7:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "JULY 24 ATTACKING/BLOCKING: AJ",
+          "date": "Jul 24",
+          "time": "7:00PM - 8:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -217,5 +229,5 @@
       ]
     }
   },
-  "generated_at": "2026-07-18T01:14:05.440645+00:00"
+  "generated_at": "2026-07-18T16:41:06.671866+00:00"
 }
