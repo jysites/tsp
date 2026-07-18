@@ -5,18 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "JULY 19 SERVE/PASS: GABI",
-          "date": "Jul 19",
-          "time": "9:00AM - 10:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "JULY 19 VOLLEYKIDS: AGES 4-6 GABI",
-          "date": "Jul 19",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "JULY 23 SERVE/PASS: GABI",
           "date": "Jul 23",
           "time": "5:00PM - 6:00PM",
@@ -173,21 +161,9 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "JULY 17 PRIVATE LESSON: LAUREL CASSIDY",
-          "date": "Jul 17",
-          "time": "2:00PM - 3:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 17 PRIVATE LESSON: LAUREL CASSIDY",
-          "date": "Jul 17",
-          "time": "3:00PM - 4:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "JULY 17 PRIVATE LESSON: LAUREL CASSIDY",
-          "date": "Jul 17",
-          "time": "4:00PM - 5:00PM",
+          "title": "JULY 19 PRIVATE LESSON: GABI DUHON",
+          "date": "Jul 19",
+          "time": "10:00AM - 11:00AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -241,5 +217,5 @@
       ]
     }
   },
-  "generated_at": "2026-07-17T09:43:30.504609+00:00"
+  "generated_at": "2026-07-18T01:14:05.440645+00:00"
 }
