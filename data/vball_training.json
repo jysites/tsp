@@ -65,21 +65,9 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "JULY 19 DEFENSE/FIRST CONTACT: RILEY",
-          "date": "Jul 19",
-          "time": "11:00AM - 12:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JULY 19 BLOCKING/ATTACKING: AJ",
-          "date": "Jul 19",
-          "time": "12:00PM - 1:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "JULY 19 SERVE/PASS: RILEY",
-          "date": "Jul 19",
-          "time": "12:00PM - 1:00PM",
+          "title": "JULY 21 ATTACKING/BLOCKING: AJ",
+          "date": "Jul 21",
+          "time": "3:30PM - 4:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -104,6 +92,12 @@
           "title": "JULY 23 SERVING/ATTACKING: MADISON CASSIDY",
           "date": "Jul 23",
           "time": "6:30PM - 7:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "JULY 24 ATTACKING/TRANSITION: AJ",
+          "date": "Jul 24",
+          "time": "12:00PM - 1:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -217,5 +211,5 @@
       ]
     }
   },
-  "generated_at": "2026-07-19T16:41:28.009619+00:00"
+  "generated_at": "2026-07-20T01:22:43.664250+00:00"
 }

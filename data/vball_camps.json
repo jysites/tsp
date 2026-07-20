@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
-      "title": "SUMMER CAMP SESSION 2: 4TH-8TH",
-      "dates": "Jul 20 - Jul 23",
-      "registration_starts": "Feb 16",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "ELITE CONNECTION: SETTER/HITTER CLINIC- JULY 21",
       "dates": "Jul 21 - Jul 21",
       "registration_starts": "May 31",
@@ -71,6 +65,12 @@
       "title": "VOLLEY TOGETHER: FAMILY SERIES (K-4TH GRADE)",
       "dates": "Jul 07 - Jul 28",
       "registration_starts": "Feb 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SUMMER CAMP SESSION 2: 4TH-8TH",
+      "dates": "Jul 20 - Jul 23",
+      "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
@@ -146,5 +146,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-07-16T01:29:55.626266+00:00"
+  "generated_at": "2026-07-20T01:34:38.827490+00:00"
 }
