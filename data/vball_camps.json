@@ -2,18 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
-      "title": "ELITE CONNECTION: SETTER/HITTER CLINIC- JULY 21",
-      "dates": "Jul 21 - Jul 21",
-      "registration_starts": "May 31",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
-      "title": "ELITE FIRST CONTACT: DEFENSE & PASSING CLINIC- JULY 21",
-      "dates": "Jul 21 - Jul 21",
-      "registration_starts": "May 31",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "ELITE SETTER LAB- JULY 22",
       "dates": "Jul 22 - Jul 22",
       "registration_starts": "May 31",
@@ -144,7 +132,19 @@
       "dates": "Jul 16 - Jul 16",
       "registration_starts": "May 27",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "ELITE CONNECTION: SETTER/HITTER CLINIC- JULY 21",
+      "dates": "Jul 21 - Jul 21",
+      "registration_starts": "May 31",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "ELITE FIRST CONTACT: DEFENSE & PASSING CLINIC- JULY 21",
+      "dates": "Jul 21 - Jul 21",
+      "registration_starts": "May 31",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-07-20T01:34:38.827490+00:00"
+  "generated_at": "2026-07-21T01:31:12.823580+00:00"
 }
