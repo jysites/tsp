@@ -45,7 +45,7 @@ CATEGORIES: Dict[str, Dict[str, str]] = {
     "group": {
         "label": "Group Training",
         "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
-        "filter": "group",
+        "filter": ["group", "west training"],
         "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
         "scrape_mode": "season_cards",
     },
