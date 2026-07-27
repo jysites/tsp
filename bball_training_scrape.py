@@ -279,7 +279,12 @@ def extract_events_from_season_cards(
             )
             continue
 
-        if not title or filter_word.lower() not in title.lower():
+        filter_terms = (
+            [filter_word] if isinstance(filter_word, str) else filter_word
+        )
+        if not title or not any(
+            term.lower() in title.lower() for term in filter_terms
+        ):
             continue
 
         date = ""
