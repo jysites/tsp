@@ -107,12 +107,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
       "events": [
         {
-          "title": "JULY 28TH TRAINING",
-          "date": "Jul 28",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
-        {
           "title": "JULY 29TH TRAINING",
           "date": "Jul 29",
           "time": "4:00PM - 5:00PM",
@@ -215,12 +209,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
       "events": [
         {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE): JULY 28",
-          "date": "Jul 28",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
           "title": "INDIVIDUAL LESSON (COACH EDDIE): JULY 29",
           "date": "Jul 29",
           "time": "4:00PM - 5:00PM",
@@ -319,5 +307,5 @@
       ]
     }
   },
-  "generated_at": "2026-07-28T17:15:40.907469+00:00"
+  "generated_at": "2026-07-29T01:18:59.103702+00:00"
 }
