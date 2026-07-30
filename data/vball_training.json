@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "JULY 29 ALL SKILL: ELISE",
-          "date": "Jul 29",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "JULY 30 SERVE/PASS: LEXIE",
           "date": "Jul 30",
           "time": "4:30PM - 5:30PM",
@@ -71,12 +65,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "JULY 29 SETTER/HITTER: MADISON",
-          "date": "Jul 29",
-          "time": "6:15PM - 7:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "JULY 29 DEFENSE/FIRST CONTACT: MADISON",
           "date": "Jul 29",
           "time": "7:15PM - 8:15PM",
@@ -116,6 +104,30 @@
           "title": "AUGUST 2 DEFENSE/FIRST CONTACT: RILEY",
           "date": "Aug 02",
           "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "AUGUST 3 SETTER/HITTER: MADISON",
+          "date": "Aug 03",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "AUGUST 3 DEFENSE/FIRST CONTACT: MADISON",
+          "date": "Aug 03",
+          "time": "6:30PM - 7:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "AUGUST 4 DEFENSE: MADISON",
+          "date": "Aug 04",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "AUGUST 4 SERVE/PASS: MADISON",
+          "date": "Aug 04",
+          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -193,5 +205,5 @@
       ]
     }
   },
-  "generated_at": "2026-07-29T10:24:49.491618+00:00"
+  "generated_at": "2026-07-30T01:12:14.508811+00:00"
 }
