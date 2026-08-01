@@ -23,6 +23,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
+          "title": "AUGUST 4 SERVE/PASS: WHITNEY",
+          "date": "Aug 04",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
           "title": "AUGUST 4 SERVE/PASS: RILEY",
           "date": "Aug 04",
           "time": "6:30PM - 7:30PM",
@@ -143,6 +149,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
+          "title": "AUGUST 2 PRIVATE LESSON: RILEY WALL",
+          "date": "Aug 02",
+          "time": "8:00AM - 9:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "AUGUST 2 PRIVATE LESSON: ELISE LATHAN *AGES 14U*",
           "date": "Aug 02",
           "time": "1:00PM - 2:00PM",
@@ -181,5 +193,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-01T01:26:12.681299+00:00"
+  "generated_at": "2026-08-01T17:38:13.900421+00:00"
 }
