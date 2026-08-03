@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 5",
-      "dates": "Aug 03 - Aug 04",
-      "registration_starts": "Feb 16",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "HEAD START HOOPS: PREK/K",
       "dates": "Aug 17 - Sep 28",
       "registration_starts": "May 05",
@@ -92,11 +86,17 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "SUMMER BASKETBALL CAMP 2026: SESSION 5",
+      "dates": "Aug 03 - Aug 04",
+      "registration_starts": "Feb 16",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
       "dates": "Jul 27 - Jul 30",
       "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-07-28T17:23:36.055661+00:00"
+  "generated_at": "2026-08-03T01:32:33.878783+00:00"
 }
