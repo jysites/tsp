@@ -5,21 +5,9 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "AUGUST 3 SERVE/PASS: RILEY",
-          "date": "Aug 03",
-          "time": "3:30PM - 4:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUGUST 4 SERVE/PASS: WHITNEY",
           "date": "Aug 04",
           "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "AUGUST 4 SERVE/PASS: RILEY",
-          "date": "Aug 04",
-          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
@@ -59,18 +47,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "AUGUST 3 DEFENSE/FIRST CONTACT: RILEY",
-          "date": "Aug 03",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "AUGUST 3 ATTACKING: MADISON",
-          "date": "Aug 03",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "AUGUST 4 SERVE/PASS: MADISON",
           "date": "Aug 04",
           "time": "6:30PM - 7:30PM",
@@ -91,18 +67,6 @@
         {
           "title": "AUGUST 5 SERVE/PASS: MADISON",
           "date": "Aug 05",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "AUGUST 6 SERVE/PASS: MADISON",
-          "date": "Aug 06",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "AUGUST 6 SETTER/HITTER: MADISON",
-          "date": "Aug 06",
           "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
@@ -149,18 +113,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "AUGUST 3 PRIVATE LESSON: ELISE LATHAN",
-          "date": "Aug 03",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "AUGUST 3 PRIVATE LESSON: MADISON CASSIDY",
-          "date": "Aug 03",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "AUGUST 4 PRIVATE LESSON: MADISON CASSIDY",
           "date": "Aug 04",
           "time": "5:30PM - 6:30PM",
@@ -173,6 +125,18 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "AUGUST 4 PRIVATE LESSON: MATTHEW NGUYEN",
+          "date": "Aug 04",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "AUGUST 6 PRIVATE LESSON: MATTHEW NGUYEN",
+          "date": "Aug 06",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "TO SCHEDULE A PRIVATE LESSON PLEASE EMAIL MICHELE@TEAMSPORTSPLEX.NET",
           "date": "Dec 31",
           "time": "7:00PM - 8:00PM",
@@ -181,5 +145,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-03T20:26:13.718205+00:00"
+  "generated_at": "2026-08-04T01:15:56.201597+00:00"
 }
