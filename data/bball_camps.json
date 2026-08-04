@@ -20,14 +20,14 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
-      "title": "PLAYER DEVELOPMENT ACADEMY: 5TH-6TH",
-      "dates": "Aug 18 - Oct 20",
+      "title": "GAME READY HOOPS: DEVELOPMENT TRAINING (3RD-4TH)",
+      "dates": "Aug 18 - Sep 22",
       "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
-      "title": "GAME READY HOOPS: DEVELOPMENT TRAINING (3RD-4TH)",
-      "dates": "Aug 18 - Sep 22",
+      "title": "PLAYER DEVELOPMENT ACADEMY: 5TH-6TH",
+      "dates": "Aug 18 - Oct 20",
       "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
@@ -92,6 +92,12 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "NEW YEAR'S CAMP 2026",
+      "dates": "Dec 28 - Dec 30",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
       "dates": "Jul 27 - Jul 30",
       "registration_starts": "Feb 16",
@@ -104,5 +110,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-08-04T01:24:22.215548+00:00"
+  "generated_at": "2026-08-04T17:11:25.969380+00:00"
 }

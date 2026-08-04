@@ -113,12 +113,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "AUGUST 4 PRIVATE LESSON: MADISON CASSIDY",
-          "date": "Aug 04",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "AUGUST 4 PRIVATE LESSON: WHITNEY",
           "date": "Aug 04",
           "time": "5:30PM - 6:30PM",
@@ -131,7 +125,19 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "SESSION FULL- PRIVATE LESSON: MADISON CASSIDY",
+          "date": "Aug 04",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "AUGUST 6 PRIVATE LESSON: MATTHEW NGUYEN",
+          "date": "Aug 06",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "AUGUST 6 PRIVATE LESSON: WHITNEY JONES",
           "date": "Aug 06",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
@@ -145,5 +151,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-04T01:15:56.201597+00:00"
+  "generated_at": "2026-08-04T17:02:32.181411+00:00"
 }
