@@ -107,6 +107,18 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "AUGUST 30 SETTING: MATTHEW",
+          "date": "Aug 30",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "AUGUST 30 DEFENSE: MATTHEW",
+          "date": "Aug 30",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "AUGUST 31 SERVE/PASS: MADISON CASSIDY",
           "date": "Aug 31",
           "time": "7:30PM - 8:30PM",
@@ -125,9 +137,33 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "SEPTEMBER 6 SETTING: MATTHEW",
+          "date": "Sep 06",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "SEPTEMBER 6 SERVE/PASS: MATTHEW",
+          "date": "Sep 06",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "SEPTEMBER 8 ATTACKING/TRANSITION: AJ",
           "date": "Sep 08",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "SEPTEMBER 13 SETTING: MATTHEW",
+          "date": "Sep 13",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "SEPTEMBER 13 DEFENSE: MATTHEW",
+          "date": "Sep 13",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -137,9 +173,33 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "SEPTEMBER 20 SETTER/HITTER: MATTHEW",
+          "date": "Sep 20",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "SEPTEMBER 20 SERVE/PASS: MATTHEW",
+          "date": "Sep 20",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "SEPTEMBER 22 ATTACKING/TRANSITION: AJ",
           "date": "Sep 22",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "SEPTEMBER 27 SETTER/HITTER: MATTHEW",
+          "date": "Sep 27",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "SEPTEMBER 27 ATTACKING: MATTHEW",
+          "date": "Sep 27",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -205,5 +265,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-06T01:15:16.437803+00:00"
+  "generated_at": "2026-08-06T14:34:51.979352+00:00"
 }
