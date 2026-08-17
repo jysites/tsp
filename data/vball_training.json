@@ -35,18 +35,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "AUGUST 23 SERVE/PASS: LEXIE",
-          "date": "Aug 23",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "AUGUST 23 SERVE/PASS: LEXIE",
-          "date": "Aug 23",
-          "time": "11:00AM - 12:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUG 24 SERVE/PASS: LEXIE",
           "date": "Aug 24",
           "time": "4:00PM - 5:00PM",
@@ -179,7 +167,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "SEPTEMBER 20 VOLLEYKIDS: AGES 4-6 JEWEL",
+          "title": "SEPTEMBER 20 VOLLEYKIDS: AGES 4-6",
           "date": "Sep 20",
           "time": "10:15AM - 11:15AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -523,5 +511,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-15T16:09:41.552966+00:00"
+  "generated_at": "2026-08-17T00:29:09.819063+00:00"
 }
