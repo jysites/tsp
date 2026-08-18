@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
-      "title": "LITTLE SPIKERS BOUNCE BALL PROGRAM",
-      "dates": "Aug 18 - Sep 22",
-      "registration_starts": "May 20",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "TRAIN & PLAY SERIES: 4TH - 8TH GRADES",
       "dates": "Aug 19 - Sep 23",
       "registration_starts": "May 19",
@@ -42,7 +36,13 @@
       "dates": "Oct 14 - Nov 18",
       "registration_starts": "Aug 13",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "LITTLE SPIKERS BOUNCE BALL PROGRAM",
+      "dates": "Aug 18 - Sep 22",
+      "registration_starts": "May 20",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-08-15T00:33:31.246349+00:00"
+  "generated_at": "2026-08-18T08:23:22.178941+00:00"
 }

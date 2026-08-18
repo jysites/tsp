@@ -5,6 +5,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915",
       "events": [
         {
+          "title": "AUGUST 21ST TRAINING",
+          "date": "Aug 21",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
           "title": "AUGUST 24TH TRAINING",
           "date": "Aug 24",
           "time": "5:00PM - 6:00PM",
@@ -34,6 +40,12 @@
       "label": "Training: Intermediate 5th-8th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916",
       "events": [
+        {
+          "title": "AUGUST 21ST TRAINING",
+          "date": "Aug 21",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
         {
           "title": "AUGUST 24TH TRAINING",
           "date": "Aug 24",
@@ -70,6 +82,18 @@
       "label": "Training: Advanced 9th-12th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
       "events": [
+        {
+          "title": "AUGUST 21ST TRAINING",
+          "date": "Aug 21",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "AUGUST 21ST TRAINING",
+          "date": "Aug 21",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
         {
           "title": "AUGUST 24TH TRAINING",
           "date": "Aug 24",
@@ -142,12 +166,6 @@
       "label": "Individual Training",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
       "events": [
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE): AUGUST 17",
-          "date": "Aug 17",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
         {
           "title": "INDIVIDUAL TRAINING (COACH EDDIE): AUGUST 21",
           "date": "Aug 21",
@@ -361,5 +379,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-11T00:44:11.615013+00:00"
+  "generated_at": "2026-08-18T08:19:56.485630+00:00"
 }
