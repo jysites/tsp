@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "AUG 18 SERVE/PASS: WHITNEY",
-          "date": "Aug 18",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUG 20 SERVE/PASS: RILEY",
           "date": "Aug 20",
           "time": "5:00PM - 6:00PM",
@@ -18,6 +12,12 @@
         },
         {
           "title": "AUGUST 23 VOLLEYKIDS: AGES 4-6 JEWEL",
+          "date": "Aug 23",
+          "time": "10:00AM - 11:00AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "AUGUST 23 SERVE/PASS: GABI",
           "date": "Aug 23",
           "time": "10:00AM - 11:00AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -227,12 +227,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "AUGUST 18 SERVE/PASS: RILEY",
-          "date": "Aug 18",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "AUGUST 18 DEFENSE/FIRST CONTACT: MADISON CASSIDY",
           "date": "Aug 18",
           "time": "7:00PM - 8:00PM",
@@ -437,12 +431,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "AUGUST 18: MADISON",
-          "date": "Aug 18",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "AUGUST 20: MADISON",
           "date": "Aug 20",
           "time": "8:00PM - 9:00PM",
@@ -481,5 +469,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-18T08:19:58.970125+00:00"
+  "generated_at": "2026-08-19T00:28:50.497519+00:00"
 }
