@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
-      "title": "NEXT LEVEL VOLLEYBALL: MODIFIED PLAY LEAGUE (3RD-5TH)",
-      "dates": "Aug 20 - Sep 24",
-      "registration_starts": "May 20",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "FALL VOLLEYBALL CLINIC",
       "dates": "Oct 04 - Nov 08",
       "registration_starts": "May 20",
@@ -42,7 +36,13 @@
       "dates": "Aug 19 - Sep 23",
       "registration_starts": "Jul 30",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "NEXT LEVEL VOLLEYBALL: MODIFIED PLAY LEAGUE (3RD-5TH)",
+      "dates": "Aug 20 - Sep 24",
+      "registration_starts": "May 20",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-08-19T16:21:38.569991+00:00"
+  "generated_at": "2026-08-20T00:32:56.233307+00:00"
 }
