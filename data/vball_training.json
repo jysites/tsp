@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "AUG 20 SERVE/PASS: RILEY",
-          "date": "Aug 20",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUGUST 23 VOLLEYKIDS: AGES 4-6 JEWEL",
           "date": "Aug 23",
           "time": "10:00AM - 11:00AM",
@@ -226,12 +220,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "AUGUST 20 SERVE/DEFENSE: RILEY",
-          "date": "Aug 20",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "AUGUST 20 SETTER/HITTER: MADISON CASSIDY",
           "date": "Aug 20",
@@ -463,5 +451,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-20T16:18:58.225635+00:00"
+  "generated_at": "2026-08-21T00:32:33.610675+00:00"
 }
