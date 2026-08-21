@@ -221,12 +221,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "AUGUST 20 SETTER/HITTER: MADISON CASSIDY",
-          "date": "Aug 20",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "AUGUST 24 SERVE/PASS: MADISON CASSIDY",
           "date": "Aug 24",
           "time": "6:30PM - 7:30PM",
@@ -401,12 +395,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "AUGUST 20: MADISON",
-          "date": "Aug 20",
-          "time": "8:00PM - 9:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "AUGUST 23 PRIVATE LESSON: AJ MCDONALD",
           "date": "Aug 23",
           "time": "5:00PM - 6:00PM",
@@ -451,5 +439,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-21T00:32:33.610675+00:00"
+  "generated_at": "2026-08-21T08:23:15.021626+00:00"
 }
