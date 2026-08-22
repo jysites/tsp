@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915",
       "events": [
         {
-          "title": "AUGUST 21ST TRAINING",
-          "date": "Aug 21",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
-        },
-        {
           "title": "AUGUST 24TH TRAINING",
           "date": "Aug 24",
           "time": "5:00PM - 6:00PM",
@@ -40,12 +34,6 @@
       "label": "Training: Intermediate 5th-8th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916",
       "events": [
-        {
-          "title": "AUGUST 21ST TRAINING",
-          "date": "Aug 21",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
         {
           "title": "AUGUST 24TH TRAINING",
           "date": "Aug 24",
@@ -160,18 +148,6 @@
       "label": "Individual Training",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
       "events": [
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE): AUGUST 21",
-          "date": "Aug 21",
-          "time": "3:30PM - 4:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE): AUGUST 21",
-          "date": "Aug 21",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
         {
           "title": "INDIVIDUAL TRAINING (COACH EDDIE): AUGUST 24",
           "date": "Aug 24",
@@ -373,5 +349,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-21T16:17:10.828653+00:00"
+  "generated_at": "2026-08-22T00:28:59.534070+00:00"
 }
