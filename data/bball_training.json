@@ -27,6 +27,24 @@
           "date": "Aug 28",
           "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
+          "title": "AUGUST 31ST TRAINING",
+          "date": "Aug 31",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
+          "title": "SEPTEMBER 3RD TRAINING",
+          "date": "Sep 03",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
+          "title": "SEPTEMBER 4TH TRAINING",
+          "date": "Sep 04",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
         }
       ]
     },
@@ -61,6 +79,36 @@
         {
           "title": "AUGUST 28TH TRAINING",
           "date": "Aug 28",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "AUGUST 31ST TRAINING",
+          "date": "Aug 31",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "SEPTEMBER 1ST TRAINING",
+          "date": "Sep 01",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "SEPTEMBER 2ND TRAINING",
+          "date": "Sep 02",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "SEPTEMBER 3RD TRAINING",
+          "date": "Sep 03",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "SEPTEMBER 4TH TRAINING",
+          "date": "Sep 04",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         }
@@ -111,6 +159,54 @@
           "date": "Aug 28",
           "time": "7:00PM - 8:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "AUGUST 31ST TRAINING",
+          "date": "Aug 31",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "AUGUST 31ST TRAINING",
+          "date": "Aug 31",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 1ST TRAINING",
+          "date": "Sep 01",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 2ND TRAINING",
+          "date": "Sep 02",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 3RD TRAINING",
+          "date": "Sep 03",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 3RD TRAINING",
+          "date": "Sep 03",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 4TH TRAINING",
+          "date": "Sep 04",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 4TH TRAINING",
+          "date": "Sep 04",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         }
       ]
     },
@@ -120,19 +216,19 @@
       "events": [
         {
           "title": "WEST TRAINING: BEGINNER 2ND-4TH",
-          "date": "Feb 09 - Aug 28",
+          "date": "Feb 09 - Sep 04",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
           "title": "WEST TRAINING: INTERMEDIATE 5TH-8TH",
-          "date": "Feb 09 - Aug 28",
+          "date": "Feb 09 - Sep 05",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
           "title": "WEST TRAINING: ADVANCED 9TH-12TH",
-          "date": "Feb 09 - Aug 28",
+          "date": "Feb 09 - Sep 05",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         }
@@ -343,5 +439,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-22T08:14:27.906082+00:00"
+  "generated_at": "2026-08-23T08:15:03.032523+00:00"
 }
