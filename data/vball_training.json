@@ -11,12 +11,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "AUG 24 SERVE/PASS: LEXIE",
-          "date": "Aug 24",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUG 25 SERVE/PASS: LEXIE",
           "date": "Aug 25",
           "time": "4:00PM - 5:00PM",
@@ -383,6 +377,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
+          "title": "AUGUST 24 PRIVATE LESSON: MADISON",
+          "date": "Aug 24",
+          "time": "7:30PM - 8:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "AUGUST 30 PRIVATE LESSON: AJ MCDONALD",
           "date": "Aug 30",
           "time": "5:00PM - 6:00PM",
@@ -421,5 +421,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-24T00:30:39.419771+00:00"
+  "generated_at": "2026-08-24T16:21:22.265919+00:00"
 }
