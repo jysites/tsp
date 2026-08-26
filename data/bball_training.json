@@ -35,6 +35,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
         },
         {
+          "title": "SEPTEMBER 6TH TRAINING",
+          "date": "Sep 06",
+          "time": "9:30AM - 10:30AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
           "title": "SEPTEMBER 7TH TRAINING",
           "date": "Sep 07",
           "time": "5:00PM - 6:00PM",
@@ -113,12 +119,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916",
       "events": [
         {
-          "title": "AUGUST 25TH TRAINING",
-          "date": "Aug 25",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
-        {
           "title": "AUGUST 26TH TRAINING",
           "date": "Aug 26",
           "time": "4:00PM - 5:00PM",
@@ -164,6 +164,12 @@
           "title": "SEPTEMBER 4TH TRAINING",
           "date": "Sep 04",
           "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "SEPTEMBER 6TH TRAINING",
+          "date": "Sep 06",
+          "time": "9:30AM - 10:30AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
@@ -311,18 +317,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         },
         {
-          "title": "AUGUST 28TH TRAINING",
-          "date": "Aug 28",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
-        {
-          "title": "AUGUST 28TH TRAINING",
-          "date": "Aug 28",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
-        {
           "title": "AUGUST 31ST TRAINING",
           "date": "Aug 31",
           "time": "4:00PM - 5:00PM",
@@ -368,6 +362,18 @@
           "title": "SEPTEMBER 4TH TRAINING",
           "date": "Sep 04",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 6TH TRAINING",
+          "date": "Sep 06",
+          "time": "8:30AM - 9:30AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "SEPTEMBER 6TH TRAINING",
+          "date": "Sep 06",
+          "time": "10:30AM - 11:30AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         },
         {
@@ -949,5 +955,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-25T08:26:47.824043+00:00"
+  "generated_at": "2026-08-26T00:31:27.011273+00:00"
 }
