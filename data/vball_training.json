@@ -5,18 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "AUG 27 SERVE/PASS: LEXIE",
-          "date": "Aug 27",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "AUG 27 SERVE/PASS: LEXIE",
-          "date": "Aug 27",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUG 30 SERVE/PASS: WHITNEY",
           "date": "Aug 30",
           "time": "10:00AM - 11:00AM",
@@ -101,12 +89,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "SEP 14 SERVE/PASS: MADISON",
-          "date": "Sep 14",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "SEP 15 SERVE/PASS: WHITNEY",
           "date": "Sep 15",
           "time": "4:00PM - 5:00PM",
@@ -137,12 +119,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "SEP 21 SERVE/PASS: MADISON",
-          "date": "Sep 21",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "SEP 22 SERVE/PASS: WHITNEY",
           "date": "Sep 22",
           "time": "4:00PM - 5:00PM",
@@ -164,12 +140,6 @@
           "title": "SEP 26 SERVE/PASS: WHITNEY",
           "date": "Sep 26",
           "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "SEP 28 SERVE/PASS: MADISON",
-          "date": "Sep 28",
-          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
@@ -196,18 +166,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "AUGUST 27 DEFENSE/ FIRST CONTACT: KARLEIGH",
-          "date": "Aug 27",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "AUGUST 27 ATTACKING: MADISON",
-          "date": "Aug 27",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "AUGUST 30 SERVE/PASS: WHITNEY",
           "date": "Aug 30",
@@ -341,12 +299,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "AUGUST 27 PRIVATE LESSON: WHITNEY",
-          "date": "Aug 27",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "AUGUST 30 PRIVATE LESSON: AJ MCDONALD",
           "date": "Aug 30",
           "time": "5:00PM - 6:00PM",
@@ -391,5 +343,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-26T08:27:10.131183+00:00"
+  "generated_at": "2026-08-28T07:17:57.742897+00:00"
 }
