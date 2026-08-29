@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "SHOOTING COMBINE - AUGUST 29, 2026",
-      "dates": "Aug 29 - Aug 29",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "SHOOTING COMBINE - SEPTEMBER 12, 2026",
       "dates": "Sep 12 - Sep 12",
       "registration_starts": "May 05",
@@ -114,7 +108,13 @@
       "dates": "Aug 05 - Aug 06",
       "registration_starts": "Feb 16",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SHOOTING COMBINE - AUGUST 29, 2026",
+      "dates": "Aug 29 - Aug 29",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-08-24T18:52:32.506442+00:00"
+  "generated_at": "2026-08-29T04:38:11.166249+00:00"
 }
