@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "AUG 30 SERVE/PASS: WHITNEY",
-          "date": "Aug 30",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "AUG 30 SERVE/PASS: LEXIE",
           "date": "Aug 30",
           "time": "4:30PM - 5:30PM",
@@ -166,12 +160,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "AUGUST 30 SERVE/PASS: WHITNEY",
-          "date": "Aug 30",
-          "time": "9:00AM - 10:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "AUGUST 30 SETTER/HITTER: MATTHEW",
           "date": "Aug 30",
@@ -343,5 +331,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-28T07:17:57.742897+00:00"
+  "generated_at": "2026-08-30T18:53:05.429362+00:00"
 }
