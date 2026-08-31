@@ -5,24 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "AUG 30 SERVE/PASS: LEXIE",
-          "date": "Aug 30",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "AUG 30 SERVE/PASS: LEXIE",
-          "date": "Aug 30",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "AUG 31 SERVE/PASS: MADISON",
-          "date": "Aug 31",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "SEP 1 SERVE/PASS: WHITNEY",
           "date": "Sep 01",
           "time": "4:00PM - 5:00PM",
@@ -32,12 +14,6 @@
           "title": "SEP 3 SERVE/PASS: MADISON",
           "date": "Sep 03",
           "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
-          "title": "SEP 3 SERVE/PASS: MADISON",
-          "date": "Sep 03",
-          "time": "7:00PM - 8:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
@@ -161,12 +137,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "AUGUST 30 SETTER/HITTER: MATTHEW",
-          "date": "Aug 30",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "AUGUST 31 SERVE/PASS: MADISON CASSIDY",
           "date": "Aug 31",
           "time": "7:30PM - 8:30PM",
@@ -287,12 +257,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "AUGUST 30 PRIVATE LESSON: AJ MCDONALD",
-          "date": "Aug 30",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "SEPTEMBER 1 PRIVATE LESSON: WHITNEY",
           "date": "Sep 01",
           "time": "6:00PM - 7:00PM",
@@ -331,5 +295,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-30T18:53:05.429362+00:00"
+  "generated_at": "2026-08-31T01:53:06.935453+00:00"
 }
