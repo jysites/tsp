@@ -155,7 +155,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
-          "title": "SEPTEMBER 6 SETTING: MATTHEW",
+          "title": "SEPTEMBER 6 SETTER/HITTER: MATTHEW",
           "date": "Sep 06",
           "time": "4:30PM - 5:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
@@ -257,9 +257,21 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
+          "title": "SEPTEMBER 1 PRIVATE LESSON: MADISON",
+          "date": "Aug 31",
+          "time": "6:30PM - 7:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "SEPTEMBER 1 PRIVATE LESSON: WHITNEY",
           "date": "Sep 01",
           "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "SEPTEMBER 1 PRIVATE LESSON: MADISON",
+          "date": "Sep 03",
+          "time": "7:00PM - 8:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -295,5 +307,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-31T01:53:06.935453+00:00"
+  "generated_at": "2026-08-31T15:34:08.609858+00:00"
 }
