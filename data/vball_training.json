@@ -29,6 +29,18 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
+          "title": "SEP 6 SERVE/PASS: LEXIE",
+          "date": "Sep 06",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "SEP 6 SERVE/PASS: LEXIE",
+          "date": "Sep 06",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
           "title": "SEP 8 SERVE/PASS: WHITNEY",
           "date": "Sep 08",
           "time": "4:00PM - 5:00PM",
@@ -249,6 +261,30 @@
           "date": "Sep 30",
           "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 8 ATTACKING: AJ",
+          "date": "Oct 08",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 13 ATTACKING: AJ",
+          "date": "Oct 13",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 20 ATTACKING: AJ",
+          "date": "Oct 20",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 27 ATTACKING: AJ",
+          "date": "Oct 27",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         }
       ]
     },
@@ -266,6 +302,18 @@
           "title": "SEPTEMBER 1 PRIVATE LESSON: WHITNEY",
           "date": "Sep 01",
           "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "SEPTEMBER 1 PRIVATE LESSON: MADISON",
+          "date": "Sep 01",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "SEPTEMBER 3 PRIVATE LESSON: RILEY",
+          "date": "Sep 03",
+          "time": "5:15PM - 6:15PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -299,6 +347,24 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "OCTOBER 1 PRIVATE LESSON: RILEY",
+          "date": "Oct 01",
+          "time": "5:15PM - 6:15PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "OCTOBER 15 PRIVATE LESSON: RILEY",
+          "date": "Oct 15",
+          "time": "5:15PM - 6:15PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "OCTOBER 22 PRIVATE LESSON: RILEY",
+          "date": "Oct 22",
+          "time": "5:15PM - 6:15PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "TO SCHEDULE A PRIVATE LESSON PLEASE EMAIL MICHELE@TEAMSPORTSPLEX.NET",
           "date": "Dec 31",
           "time": "7:00PM - 8:00PM",
@@ -307,5 +373,5 @@
       ]
     }
   },
-  "generated_at": "2026-08-31T15:34:08.609858+00:00"
+  "generated_at": "2026-08-31T19:07:10.816254+00:00"
 }
