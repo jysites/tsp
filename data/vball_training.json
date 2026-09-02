@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "SEP 1 SERVE/PASS: WHITNEY",
-          "date": "Sep 01",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "SEP 3 SERVE/PASS: MADISON",
           "date": "Sep 03",
           "time": "6:00PM - 7:00PM",
@@ -149,12 +143,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "SEPTEMBER 1 ATTACKING: AJ",
-          "date": "Sep 01",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "SEPTEMBER 3 DEFENSE/ FIRST CONTACT: KARLEIGH",
           "date": "Sep 03",
           "time": "7:00PM - 8:00PM",
@@ -287,18 +275,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "SEPTEMBER 1 PRIVATE LESSON: WHITNEY",
-          "date": "Sep 01",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "SEPTEMBER 1 PRIVATE LESSON: MADISON",
-          "date": "Sep 01",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "SEPTEMBER 3 PRIVATE LESSON: RILEY",
           "date": "Sep 03",
           "time": "5:15PM - 6:15PM",
@@ -361,5 +337,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-01T02:15:28.721024+00:00"
+  "generated_at": "2026-09-02T01:37:33.034665+00:00"
 }
