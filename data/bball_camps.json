@@ -14,6 +14,12 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "PRESEASON SPEED AND AGILITY",
+      "dates": "Oct 05 - Oct 28",
+      "registration_starts": "Sep 03",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "PUREFORM SHOOTING LAB 2 (6TH-8TH)",
       "dates": "Oct 05 - Oct 26",
       "registration_starts": "May 05",
@@ -74,14 +80,14 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
-      "title": "GAME READY HOOPS: DEVELOPMENT TRAINING (3RD-4TH)",
-      "dates": "Aug 18 - Sep 22",
+      "title": "PLAYER DEVELOPMENT ACADEMY: 5TH-6TH",
+      "dates": "Aug 18 - Oct 20",
       "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
-      "title": "PLAYER DEVELOPMENT ACADEMY: 5TH-6TH",
-      "dates": "Aug 18 - Oct 20",
+      "title": "GAME READY HOOPS: DEVELOPMENT TRAINING (3RD-4TH)",
+      "dates": "Aug 18 - Sep 22",
       "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
@@ -116,5 +122,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-08-29T04:38:11.166249+00:00"
+  "generated_at": "2026-09-03T19:34:25.502790+00:00"
 }

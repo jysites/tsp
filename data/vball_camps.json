@@ -3,8 +3,8 @@
   "camps": [
     {
       "title": "SPEED AND AGILITY TRAINING",
-      "dates": "Sep 13 - Sep 20",
-      "registration_starts": "Sep 03",
+      "dates": "Sep 13 - Sep 27",
+      "registration_starts": "Sep 01",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
@@ -32,15 +32,15 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
-      "title": "TRAIN & PLAY SERIES: 4TH - 8TH GRADES",
-      "dates": "Aug 19 - Sep 23",
-      "registration_starts": "May 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "PLEX LAB: RISING PLAYERS PROGRAM, SESSION 1",
       "dates": "Aug 19 - Sep 23",
       "registration_starts": "Jul 30",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "TRAIN & PLAY SERIES: 4TH - 8TH GRADES",
+      "dates": "Aug 19 - Sep 23",
+      "registration_starts": "May 19",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
@@ -50,5 +50,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-09-03T19:00:10.938124+00:00"
+  "generated_at": "2026-09-03T19:28:24.997184+00:00"
 }
