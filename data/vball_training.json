@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "SEP 3 SERVE/PASS: MADISON",
-          "date": "Sep 03",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "SEP 6 SERVE/PASS: WHITNEY",
           "date": "Sep 06",
           "time": "9:00AM - 10:00AM",
@@ -160,12 +154,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "SEPTEMBER 3 DEFENSE/ FIRST CONTACT: KARLEIGH",
-          "date": "Sep 03",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "SEPTEMBER 6 SETTER/HITTER: MATTHEW",
           "date": "Sep 06",
@@ -335,6 +323,18 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "OCTOBER 5 DEFENSE/FIRST CONTACT: MADISON",
+          "date": "Oct 05",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 6 ATTACKING: MADISON",
+          "date": "Oct 06",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "OCTOBER 8 ATTACKING: AJ",
           "date": "Oct 08",
           "time": "7:00PM - 8:00PM",
@@ -364,24 +364,6 @@
       "label": "Individual Training 10+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
-        {
-          "title": "SEPTEMBER 3 PRIVATE LESSON: RILEY",
-          "date": "Sep 03",
-          "time": "4:15PM - 5:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "SEPTEMBER 3 PRIVATE LESSON: RILEY",
-          "date": "Sep 03",
-          "time": "5:15PM - 6:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "SEPTEMBER 1 PRIVATE LESSON: MADISON",
-          "date": "Sep 03",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
         {
           "title": "SEPTEMBER 6 PRIVATE LESSON: AJ MCDONALD",
           "date": "Sep 06",
@@ -433,5 +415,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-03T18:56:17.855922+00:00"
+  "generated_at": "2026-09-04T01:35:48.256638+00:00"
 }
