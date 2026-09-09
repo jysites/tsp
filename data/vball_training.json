@@ -131,12 +131,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "SEPTEMBER 8 ATTACKING/TRANSITION: AJ",
-          "date": "Sep 08",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "SEPTEMBER 10 SERVE/PASS: MADISON CASSIDY",
           "date": "Sep 10",
           "time": "7:00PM - 8:00PM",
@@ -149,7 +143,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
-          "title": "SEPTEMBER 14 SERVE/PASS: MADISON",
+          "title": "SEPTEMBER 14 DEFENSE/FIRST CONTACT: MADISON",
           "date": "Sep 14",
           "time": "7:30PM - 8:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
@@ -401,12 +395,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "SEPTEMBER 8 PRIVATE LESSON: MADISON",
-          "date": "Sep 08",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "SEPTEMBER 10 PRIVATE LESSON: MATTHEW",
           "date": "Sep 10",
           "time": "6:00PM - 7:00PM",
@@ -415,7 +403,19 @@
         {
           "title": "SEPTEMBER 13 PRIVATE LESSON: AJ MCDONALD",
           "date": "Sep 13",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "SEPTEMBER 13 PRIVATE LESSON: AJ MCDONALD",
+          "date": "Sep 13",
           "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "SEPTEMBER 14 PRIVATE LESSON: MADISON",
+          "date": "Sep 14",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -457,5 +457,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-08T19:02:57.293342+00:00"
+  "generated_at": "2026-09-09T01:47:14.270567+00:00"
 }
