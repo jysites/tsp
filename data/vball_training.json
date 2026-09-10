@@ -425,9 +425,21 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "SEPTEMBER 21 PRIVATE LESSON: RYLEIGH",
+          "date": "Sep 21",
+          "time": "4:00PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "SEPTEMBER 27 PRIVATE LESSON: AJ MCDONALD",
           "date": "Sep 27",
           "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "SEPTEMBER 28 PRIVATE LESSON: RYLEIGH",
+          "date": "Sep 28",
+          "time": "4:00PM - 5:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -457,5 +469,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-09T18:54:27.925467+00:00"
+  "generated_at": "2026-09-10T18:45:08.343268+00:00"
 }
