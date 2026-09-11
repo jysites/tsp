@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "SEP 10 SERVE/PASS: MADISON",
-          "date": "Sep 10",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "SEP 13 SERVE/PASS: WHITNEY",
           "date": "Sep 13",
           "time": "9:00AM - 10:00AM",
@@ -124,12 +118,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "SEPTEMBER 10 SERVE/PASS: MADISON CASSIDY",
-          "date": "Sep 10",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "SEPTEMBER 13 SETTER/HITTER: MATTHEW",
           "date": "Sep 13",
@@ -389,18 +377,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "SEPTEMBER 10 PRIVATE LESSON: LEXIE",
-          "date": "Sep 10",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
-          "title": "SEPTEMBER 10 PRIVATE LESSON: MATTHEW",
-          "date": "Sep 10",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "SEPTEMBER 13 PRIVATE LESSON: AJ MCDONALD",
           "date": "Sep 13",
           "time": "4:00PM - 5:00PM",
@@ -469,5 +445,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-10T18:45:08.343268+00:00"
+  "generated_at": "2026-09-11T01:41:10.367523+00:00"
 }
