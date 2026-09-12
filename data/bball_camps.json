@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "SHOOTING COMBINE - SEPTEMBER 12, 2026",
-      "dates": "Sep 12 - Sep 12",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "SHARP SHOOTER ACADEMY (3RD-4TH)",
       "dates": "Sep 29 - Oct 20",
       "registration_starts": "May 05",
@@ -120,7 +114,13 @@
       "dates": "Aug 29 - Aug 29",
       "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "SHOOTING COMBINE - SEPTEMBER 12, 2026",
+      "dates": "Sep 12 - Sep 12",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-09-03T19:34:25.502790+00:00"
+  "generated_at": "2026-09-12T01:57:10.030625+00:00"
 }
