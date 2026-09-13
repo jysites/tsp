@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
-      "title": "SPEED AND AGILITY TRAINING",
-      "dates": "Sep 13 - Sep 27",
-      "registration_starts": "Sep 01",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "FALL VOLLEYBALL CLINIC",
       "dates": "Oct 04 - Nov 08",
       "registration_starts": "May 20",
@@ -48,7 +42,13 @@
       "dates": "Aug 20 - Sep 24",
       "registration_starts": "May 20",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SPEED AND AGILITY TRAINING",
+      "dates": "Sep 13 - Sep 27",
+      "registration_starts": "Sep 01",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-09-03T19:28:24.997184+00:00"
+  "generated_at": "2026-09-13T01:41:58.784401+00:00"
 }
