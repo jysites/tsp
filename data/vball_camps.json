@@ -2,6 +2,12 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
+      "title": "OPEN NET: MIDDLE SCHOOL",
+      "dates": "Sep 30 - Oct 07",
+      "registration_starts": "Sep 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
       "title": "FALL VOLLEYBALL CLINIC",
       "dates": "Oct 04 - Nov 08",
       "registration_starts": "May 20",
@@ -50,5 +56,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-09-13T01:41:58.784401+00:00"
+  "generated_at": "2026-09-17T19:25:39.616119+00:00"
 }
