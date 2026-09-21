@@ -59,12 +59,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "SEPTEMBER 20 SETTER/HITTER: MATTHEW",
-          "date": "Sep 20",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "SEPTEMBER 21 DEFENSE/FIRST CONTACT: MADISON",
           "date": "Sep 21",
           "time": "7:30PM - 8:30PM",
@@ -125,7 +119,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
-          "title": "SEPTEMBER 27 SETTER/HITTER: MATTHEW",
+          "title": "SEPTEMBER 27 SETTING: MATTHEW",
           "date": "Sep 27",
           "time": "4:30PM - 5:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
@@ -185,7 +179,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
-          "title": "OCTOBER 11 SETTER/HITTER: MATTHEW",
+          "title": "OCTOBER 11 SETTING: MATTHEW",
           "date": "Oct 11",
           "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
@@ -275,12 +269,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "SEPTEMBER 20 PRIVATE LESSON: AJ MCDONALD",
-          "date": "Sep 20",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "SEPTEMBER 21 PRIVATE LESSON: RYLEIGH",
           "date": "Sep 21",
           "time": "4:00PM - 5:30PM",
@@ -349,5 +337,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-18T01:47:37.276868+00:00"
+  "generated_at": "2026-09-21T01:56:14.026377+00:00"
 }
