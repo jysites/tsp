@@ -29,18 +29,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "SEPTEMBER 22 SERVE/PASS: MADISON",
-          "date": "Sep 22",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "SEPTEMBER 22 ATTACKING/TRANSITION: AJ",
-          "date": "Sep 22",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "SEPTEMBER 24 SERVE/PASS: WHITNEY",
           "date": "Sep 24",
           "time": "5:00PM - 6:00PM",
@@ -50,12 +38,6 @@
           "title": "SEPTEMBER 24 SETTER/HITTER: MADISON",
           "date": "Sep 24",
           "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "SEPTEMBER 26 ATTACKING: WHITNEY",
-          "date": "Sep 26",
-          "time": "10:00AM - 11:00AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -307,5 +289,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-22T02:03:35.512484+00:00"
+  "generated_at": "2026-09-23T02:01:44.434360+00:00"
 }
