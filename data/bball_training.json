@@ -665,12 +665,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
         },
         {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE): SEPTEMBER 25",
-          "date": "Sep 25",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
           "title": "INDIVIDUAL TRAINING (LAMONT) : SEPTEMBER 25",
           "date": "Sep 25",
           "time": "6:00PM - 7:00PM",
@@ -895,5 +889,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-24T19:33:15.399647+00:00"
+  "generated_at": "2026-09-24T20:12:21.986000+00:00"
 }
