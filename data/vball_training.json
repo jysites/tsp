@@ -11,7 +11,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "SEP 30 SERVE/PASS: WHITNEY",
+          "title": "SEP 30 SERVE/PASS: MICHELE",
           "date": "Sep 30",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -20,6 +20,48 @@
           "title": "SEP 30 SERVE/PASS: MADISON",
           "date": "Sep 30",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 5 SERVE/PASS: MADISON",
+          "date": "Oct 05",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 7 SERVE/PASS: MICHELE",
+          "date": "Oct 07",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 8 SERVE/PASS: MADISON",
+          "date": "Oct 08",
+          "time": "6:30PM - 7:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 12 SERVE/PASS: MICHELE",
+          "date": "Oct 12",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 13 SERVE/PASS: MICHELE",
+          "date": "Oct 13",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 15 SERVE/PASS: MICHELE",
+          "date": "Oct 15",
+          "time": "4:30PM - 5:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 20 SERVE/PASS: MICHELE",
+          "date": "Oct 20",
+          "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         }
       ]
@@ -107,21 +149,9 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
-          "title": "OCTOBER 5 DEFENSE/FIRST CONTACT: MADISON",
-          "date": "Oct 05",
-          "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "OCTOBER 6 ATTACKING: MADISON",
+          "title": "OCTOBER 6 SERVE/PASS: MADISON",
           "date": "Oct 06",
           "time": "5:30PM - 6:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "OCTOBER 8 SERVE/PASS: MADISON",
-          "date": "Oct 08",
-          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -283,5 +313,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-24T12:57:24.453096+00:00"
+  "generated_at": "2026-09-24T15:17:24.888412+00:00"
 }
