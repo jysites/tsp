@@ -269,9 +269,15 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "SEPTEMBER 28 PRIVATE LESSON: MADISON",
+          "date": "Sep 28",
+          "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "SEPTEMBER 30 PRIVATE LESSON: CODY",
           "date": "Sep 30",
-          "time": "4:00PM - 5:30PM",
+          "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -319,5 +325,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-25T13:03:46.092151+00:00"
+  "generated_at": "2026-09-25T19:37:21.738516+00:00"
 }
