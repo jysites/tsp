@@ -59,7 +59,7 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "OCT 13 SERVE/PASS: MICHELE",
+          "title": "OCT 13 SERVE/PASS: JEWEL",
           "date": "Oct 13",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
@@ -71,8 +71,14 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         },
         {
-          "title": "OCT 20 SERVE/PASS: MICHELE",
+          "title": "OCT 20 SERVE/PASS: JEWEL",
           "date": "Oct 20",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "OCT 27 SERVE/PASS: JEWEL",
+          "date": "Oct 27",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         }
@@ -313,5 +319,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-25T02:07:23.067321+00:00"
+  "generated_at": "2026-09-25T13:03:46.092151+00:00"
 }
