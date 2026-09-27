@@ -5,9 +5,9 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915",
       "events": [
         {
-          "title": "SEPTEMBER 27TH TRAINING",
-          "date": "Sep 27",
-          "time": "9:00AM - 10:00AM",
+          "title": "SEPTEMBER 29TH TRAINING",
+          "date": "Sep 29",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
         },
         {
@@ -137,15 +137,15 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916",
       "events": [
         {
-          "title": "SEPTEMBER 27TH TRAINING",
-          "date": "Sep 27",
-          "time": "10:00AM - 11:00AM",
+          "title": "SEPTEMBER 29TH TRAINING",
+          "date": "Sep 29",
+          "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
           "title": "SEPTEMBER 29TH TRAINING",
           "date": "Sep 29",
-          "time": "6:00PM - 7:00PM",
+          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
@@ -280,12 +280,6 @@
       "label": "Training: Advanced 9th-12th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
       "events": [
-        {
-          "title": "SEPTEMBER 27TH TRAINING",
-          "date": "Sep 27",
-          "time": "11:00AM - 12:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
         {
           "title": "SEPTEMBER 29TH TRAINING",
           "date": "Sep 29",
@@ -793,5 +787,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-26T18:46:21.027391+00:00"
+  "generated_at": "2026-09-27T02:05:45.132449+00:00"
 }

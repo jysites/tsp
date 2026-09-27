@@ -32,12 +32,6 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
-      "title": "SPEED AND AGILITY TRAINING",
-      "dates": "Sep 13 - Sep 27",
-      "registration_starts": "Sep 01",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "LITTLE SPIKERS BOUNCE BALL PROGRAM",
       "dates": "Aug 18 - Sep 22",
       "registration_starts": "May 20",
@@ -60,7 +54,13 @@
       "dates": "Aug 20 - Sep 24",
       "registration_starts": "May 20",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "SPEED AND AGILITY TRAINING",
+      "dates": "Sep 13 - Sep 27",
+      "registration_starts": "Sep 01",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-09-24T13:02:20.113626+00:00"
+  "generated_at": "2026-09-27T02:10:39.255543+00:00"
 }
