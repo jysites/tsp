@@ -17,9 +17,21 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
         },
         {
+          "title": "OCTOBER 1ST TRAINING",
+          "date": "Oct 01",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
           "title": "OCTOBER 2ND TRAINING",
           "date": "Oct 02",
           "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
+        },
+        {
+          "title": "OCTOBER 4TH TRAINING",
+          "date": "Oct 04",
+          "time": "9:00AM - 10:00AM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
         },
         {
@@ -167,6 +179,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
+          "title": "OCTOBER 4TH TRAINING",
+          "date": "Oct 04",
+          "time": "10:00AM - 11:00AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
           "title": "OCTOBER 5TH TRAINING",
           "date": "Oct 05",
           "time": "6:00PM - 7:00PM",
@@ -283,7 +301,7 @@
         {
           "title": "SEPTEMBER 29TH TRAINING",
           "date": "Sep 29",
-          "time": "7:00PM - 8:00PM",
+          "time": "7:30PM - 8:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         },
         {
@@ -320,6 +338,18 @@
           "title": "OCTOBER 2ND TRAINING",
           "date": "Oct 02",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "OCTOBER 4TH TRAINING",
+          "date": "Oct 04",
+          "time": "8:00AM - 9:00AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
+        },
+        {
+          "title": "OCTOBER 4TH TRAINING",
+          "date": "Oct 04",
+          "time": "11:00AM - 12:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         },
         {
@@ -787,5 +817,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-27T02:05:45.132449+00:00"
+  "generated_at": "2026-09-28T16:08:33.902801+00:00"
 }
