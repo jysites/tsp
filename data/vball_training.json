@@ -89,18 +89,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "SEPTEMBER 27 ATTACKING/BLOCKING: AJ",
-          "date": "Sep 27",
-          "time": "2:00PM - 3:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "SEPTEMBER 27 SETTING: MATTHEW",
-          "date": "Sep 27",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "SEPTEMBER 28 DEFENSE/FIRST CONTACT: MADISON",
           "date": "Sep 28",
           "time": "7:30PM - 8:30PM",
@@ -233,12 +221,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "SEPTEMBER 27 PRIVATE LESSON: AJ MCDONALD",
-          "date": "Sep 27",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "SEPTEMBER 28 PRIVATE LESSON: RYLEIGH",
           "date": "Sep 28",
           "time": "4:00PM - 5:30PM",
@@ -301,5 +283,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-27T19:21:52.058653+00:00"
+  "generated_at": "2026-09-28T02:10:58.973057+00:00"
 }
