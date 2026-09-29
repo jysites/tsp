@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "SHARP SHOOTER ACADEMY (3RD-4TH)",
-      "dates": "Sep 29 - Oct 20",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "PRESEASON SPEED AND AGILITY",
       "dates": "Oct 05 - Oct 28",
       "registration_starts": "Sep 03",
@@ -74,6 +68,12 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "SHARP SHOOTER ACADEMY (3RD-4TH)",
+      "dates": "Sep 29 - Oct 20",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
       "dates": "Jul 27 - Jul 30",
       "registration_starts": "Feb 16",
@@ -122,5 +122,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-09-28T02:20:53.048780+00:00"
+  "generated_at": "2026-09-29T03:06:47.533463+00:00"
 }
