@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
-      "title": "OPEN NET: MIDDLE SCHOOL",
-      "dates": "Sep 30 - Oct 07",
-      "registration_starts": "Sep 17",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "OCTOBER SPEED AND AGILITY TRAINING",
       "dates": "Oct 01 - Oct 29",
       "registration_starts": "Sep 01",
@@ -29,6 +23,12 @@
       "title": "PLEX LAB 2: RISING PLAYERS PROGRAM SESSION 2",
       "dates": "Oct 14 - Nov 18",
       "registration_starts": "Aug 13",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "OPEN NET: MIDDLE SCHOOL",
+      "dates": "Sep 30 - Oct 07",
+      "registration_starts": "Sep 17",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
@@ -62,5 +62,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-09-27T02:10:39.255543+00:00"
+  "generated_at": "2026-09-30T02:43:06.182826+00:00"
 }
