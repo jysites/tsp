@@ -636,18 +636,6 @@
         },
         {
           "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Oct 16",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Oct 16",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
           "date": "Oct 24",
           "time": "12:30PM - 1:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
@@ -775,5 +763,5 @@
       ]
     }
   },
-  "generated_at": "2026-09-30T14:22:07.492225+00:00"
+  "generated_at": "2026-09-30T20:22:13.863135+00:00"
 }
