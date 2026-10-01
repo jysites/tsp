@@ -503,13 +503,13 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
       "events": [
         {
-          "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
+          "title": "OCTOBER GROUP TRAINING: 3RD-4TH GRADES",
           "date": "Oct 05 - Oct 26",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "OCTOBER GROUP TRAINING: 3RD-4TH GRADES",
+          "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
           "date": "Oct 05 - Oct 26",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
@@ -575,21 +575,9 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
         },
         {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE): OCTOBER 2",
-          "date": "Oct 02",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
           "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
           "date": "Oct 07",
           "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Oct 07",
-          "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
         },
         {
@@ -727,5 +715,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-01T02:42:11.717769+00:00"
+  "generated_at": "2026-10-01T14:52:20.207015+00:00"
 }
