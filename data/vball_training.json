@@ -65,15 +65,15 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "OCTOBER 1 SETTING: MATTHEW",
-          "date": "Oct 01",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "OCTOBER 4 SETTING: MATTHEW",
           "date": "Oct 04",
           "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 8 ALL SKILL: MADISON",
+          "date": "Oct 08",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -104,6 +104,12 @@
           "title": "OCTOBER 20 ATTACKING: AJ",
           "date": "Oct 20",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 22 ALL SKILL: MADISON",
+          "date": "Oct 22",
+          "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -169,5 +175,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-01T02:42:10.353262+00:00"
+  "generated_at": "2026-10-01T20:39:40.977426+00:00"
 }
