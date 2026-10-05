@@ -2,18 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "PRESEASON SPEED AND AGILITY",
-      "dates": "Oct 05 - Oct 28",
-      "registration_starts": "Sep 03",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
-      "title": "PUREFORM SHOOTING LAB 2 (6TH-8TH)",
-      "dates": "Oct 05 - Oct 26",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "FALL BREAK CAMP SESSION 1 2026",
       "dates": "Oct 09 - Oct 09",
       "registration_starts": "May 05",
@@ -80,6 +68,18 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "PRESEASON SPEED AND AGILITY",
+      "dates": "Oct 05 - Oct 28",
+      "registration_starts": "Sep 03",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "PUREFORM SHOOTING LAB 2 (6TH-8TH)",
+      "dates": "Oct 05 - Oct 26",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "SUMMER BASKETBALL CAMP 2026: SESSION 4",
       "dates": "Jul 27 - Jul 30",
       "registration_starts": "Feb 16",
@@ -128,5 +128,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-10-02T02:56:48.270926+00:00"
+  "generated_at": "2026-10-05T02:47:17.304972+00:00"
 }

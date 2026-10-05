@@ -59,12 +59,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "OCTOBER 4 SETTING: MATTHEW",
-          "date": "Oct 04",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "OCTOBER 8 ALL SKILL: MADISON",
           "date": "Oct 08",
           "time": "5:30PM - 6:30PM",
@@ -74,6 +68,12 @@
           "title": "OCTOBER 8 ATTACKING: AJ",
           "date": "Oct 08",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 11 DEFENSE: RILEY",
+          "date": "Oct 11",
+          "time": "3:00PM - 4:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -104,6 +104,18 @@
           "title": "OCTOBER 22 ALL SKILL: MADISON",
           "date": "Oct 22",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 24 SERVE/ SERVE RECEIVE: AJ",
+          "date": "Oct 24",
+          "time": "10:30AM - 11:30AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 24 DEFENSE/FIRST CONTACT: AJ",
+          "date": "Oct 24",
+          "time": "11:30AM - 12:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -163,5 +175,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-02T20:12:14.411509+00:00"
+  "generated_at": "2026-10-05T02:36:51.536919+00:00"
 }
