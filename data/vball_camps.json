@@ -8,12 +8,6 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
-      "title": "OPEN NET: MIDDLE SCHOOL",
-      "dates": "Sep 30 - Oct 07",
-      "registration_starts": "Sep 17",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "OCTOBER SPEED AND AGILITY TRAINING",
       "dates": "Oct 01 - Oct 29",
       "registration_starts": "Sep 01",
@@ -60,7 +54,13 @@
       "dates": "Sep 13 - Sep 27",
       "registration_starts": "Sep 01",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "OPEN NET: MIDDLE SCHOOL",
+      "dates": "Sep 30 - Oct 07",
+      "registration_starts": "Sep 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-10-06T03:35:26.163643+00:00"
+  "generated_at": "2026-10-07T03:00:05.164462+00:00"
 }
