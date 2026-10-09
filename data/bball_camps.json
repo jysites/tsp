@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "FALL BREAK CAMP SESSION 1 2026",
-      "dates": "Oct 09 - Oct 09",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "FALL BREAK CAMP SESSION 2 2026",
       "dates": "Oct 12 - Oct 13",
       "registration_starts": "May 05",
@@ -126,7 +120,13 @@
       "dates": "Sep 12 - Sep 12",
       "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "FALL BREAK CAMP SESSION 1 2026",
+      "dates": "Oct 09 - Oct 09",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-10-05T02:47:17.304972+00:00"
+  "generated_at": "2026-10-09T03:28:47.819317+00:00"
 }
