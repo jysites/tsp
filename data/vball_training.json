@@ -71,6 +71,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "OCTOBER 18 SERVE RECEIVE: AJ",
+          "date": "Oct 18",
+          "time": "12:00PM - 1:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "OCTOBER 18 DEFENSE: RILEY",
           "date": "Oct 18",
           "time": "3:00PM - 4:00PM",
@@ -131,12 +137,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "OCTOBER 13 PRIVATE LESSON: RYLEIGH",
-          "date": "Oct 13",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "OCTOBER 14 PRIVATE LESSON: LEXIE",
           "date": "Oct 14",
           "time": "4:30PM - 5:30PM",
@@ -152,6 +152,12 @@
           "title": "OCTOBER 15 PRIVATE LESSON: MADISON CASSIDY",
           "date": "Oct 15",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "OCTOBER 13 PRIVATE LESSON: RYLEIGH",
+          "date": "Oct 18",
+          "time": "3:00PM - 4:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -187,5 +193,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-12T17:04:21.590032+00:00"
+  "generated_at": "2026-10-13T18:15:56.238446+00:00"
 }
