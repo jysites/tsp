@@ -204,12 +204,6 @@
       "events": [
         {
           "title": "WEST TRAINING",
-          "date": "Oct 12",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
-        {
-          "title": "WEST TRAINING",
           "date": "Oct 13",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
@@ -460,12 +454,6 @@
       "label": "Training: Advanced 9th-12th",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908",
       "events": [
-        {
-          "title": "WEST TRAINING",
-          "date": "Oct 12",
-          "time": "7:00PM - 8:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
         {
           "title": "WEST TRAINING",
           "date": "Oct 13",
@@ -967,5 +955,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-12T17:04:22.255632+00:00"
+  "generated_at": "2026-10-13T04:08:04.845054+00:00"
 }
