@@ -695,20 +695,14 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110",
       "events": [
         {
-          "title": "NOVEMBER GROUP TRAINING: 3RD-4TH GRADES",
-          "date": "Nov 03 - Nov 17",
-          "time": "",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
-        },
-        {
           "title": "NOVEMBER GROUP TRAINING: 1ST-2ND GRADES",
           "date": "Nov 03 - Nov 17",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "DECEMBER GROUP TRAINING: 3RD-4TH GRADES",
-          "date": "Dec 07 - Dec 16",
+          "title": "NOVEMBER GROUP TRAINING: 3RD-4TH GRADES",
+          "date": "Nov 03 - Nov 17",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
@@ -719,8 +713,14 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
-          "date": "Oct 05 - Oct 26",
+          "title": "DECEMBER GROUP TRAINING: 3RD-4TH GRADES",
+          "date": "Dec 07 - Dec 16",
+          "time": "",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
+        },
+        {
+          "title": "WEST TRAINING: ADVANCED 9TH-12TH",
+          "date": "Feb 09 - Dec 31",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
@@ -737,8 +737,8 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "WEST TRAINING: ADVANCED 9TH-12TH",
-          "date": "Feb 09 - Dec 31",
+          "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
+          "date": "Oct 05 - Oct 26",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         }
@@ -943,5 +943,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-14T02:21:49.077491+00:00"
+  "generated_at": "2026-10-14T19:47:02.263625+00:00"
 }
