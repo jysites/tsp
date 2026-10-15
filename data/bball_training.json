@@ -719,8 +719,8 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "WEST TRAINING: ADVANCED 9TH-12TH",
-          "date": "Feb 09 - Dec 31",
+          "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
+          "date": "Oct 05 - Oct 26",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
@@ -737,8 +737,8 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
-          "date": "Oct 05 - Oct 26",
+          "title": "WEST TRAINING: ADVANCED 9TH-12TH",
+          "date": "Feb 09 - Dec 31",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         }
@@ -748,18 +748,6 @@
       "label": "Individual Training",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006",
       "events": [
-        {
-          "title": "INDIVIDUAL TRAINING - COACH LAMONT",
-          "date": "Oct 15",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING - COACH LAMONT",
-          "date": "Oct 15",
-          "time": "7:30PM - 8:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
         {
           "title": "INDIVIDUAL TRAINING - COACH LAMONT",
           "date": "Oct 16",
@@ -937,5 +925,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-15T12:54:45.055922+00:00"
+  "generated_at": "2026-10-15T19:30:57.186238+00:00"
 }
