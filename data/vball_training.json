@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "OCT 15 SERVE/PASS: MICHELE",
-          "date": "Oct 15",
-          "time": "4:30PM - 5:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "OCT 20 SERVE/PASS: JEWEL",
           "date": "Oct 20",
           "time": "4:00PM - 5:00PM",
@@ -52,12 +46,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "OCTOBER 15 SERVE/PASS: HANNAH",
-          "date": "Oct 15",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "OCTOBER 16 SERVE/PASS: HANNAH",
           "date": "Oct 16",
@@ -167,12 +155,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
-          "title": "OCTOBER 15 PRIVATE LESSON: RILEY",
-          "date": "Oct 15",
-          "time": "5:15PM - 6:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
-        },
-        {
           "title": "OCTOBER 13 PRIVATE LESSON: RYLEIGH",
           "date": "Oct 18",
           "time": "3:00PM - 4:00PM",
@@ -217,5 +199,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-15T19:30:55.543492+00:00"
+  "generated_at": "2026-10-16T01:52:38.261252+00:00"
 }
