@@ -2,12 +2,6 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166",
   "camps": [
     {
-      "title": "MOVEMENT SHOOTING COMBINE - OCTOBER 18, 2026",
-      "dates": "Oct 18 - Oct 18",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "THANKSGIVING CAMP 2026",
       "dates": "Nov 23 - Nov 24",
       "registration_starts": "May 05",
@@ -65,6 +59,12 @@
       "title": "PRESEASON SPEED AND AGILITY",
       "dates": "Oct 05 - Oct 28",
       "registration_starts": "Sep 03",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
+      "title": "MOVEMENT SHOOTING COMBINE - OCTOBER 18, 2026",
+      "dates": "Oct 18 - Oct 18",
+      "registration_starts": "May 05",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
@@ -128,5 +128,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-10-15T19:41:19.551570+00:00"
+  "generated_at": "2026-10-18T12:23:47.678543+00:00"
 }
