@@ -47,21 +47,9 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "OCTOBER 18 SERVE RECEIVE: AJ",
-          "date": "Oct 18",
-          "time": "12:00PM - 1:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "OCTOBER 18 DEFENSE: RILEY",
           "date": "Oct 18",
           "time": "3:00PM - 4:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "OCTOBER 18 SERVE/PASS: HANNAH",
-          "date": "Oct 18",
-          "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -110,6 +98,12 @@
           "title": "OCTOBER 27 ATTACKING: AJ",
           "date": "Oct 27",
           "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "OCTOBER 29 DEFENSE: RILEY",
+          "date": "Oct 29",
+          "time": "6:30PM - 7:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -187,5 +181,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-17T01:47:41.474154+00:00"
+  "generated_at": "2026-10-18T18:19:24.728912+00:00"
 }

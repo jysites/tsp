@@ -245,6 +245,18 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
+          "title": "TRYOUT TRAINING: COACH EDDIE",
+          "date": "Oct 21",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "TRYOUT TRAINING: COACH EDDIE",
+          "date": "Oct 21",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
           "title": "WEST TRAINING",
           "date": "Oct 21",
           "time": "6:00PM - 7:00PM",
@@ -263,8 +275,26 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
+          "title": "TRYOUT TRAINING: COACH EDDIE",
+          "date": "Oct 24",
+          "time": "9:00AM - 10:00AM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
           "title": "WEST TRAINING",
           "date": "Oct 26",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "TRYOUT TRAINING: COACH EDDIE",
+          "date": "Oct 27",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "TRYOUT TRAINING: COACH EDDIE",
+          "date": "Oct 27",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
@@ -272,6 +302,12 @@
           "title": "WEST TRAINING",
           "date": "Oct 27",
           "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
+        },
+        {
+          "title": "TRYOUT TRAINING: COACH EDDIE",
+          "date": "Oct 28",
+          "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
@@ -877,12 +913,6 @@
         {
           "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
           "date": "Oct 27",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Oct 27",
           "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
         },
@@ -890,24 +920,6 @@
           "title": "INDIVIDUAL TRAINING - COACH LAMONT",
           "date": "Oct 27",
           "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Oct 27",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING - COACH LAMONT",
-          "date": "Oct 27",
-          "time": "6:00PM - 7:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Oct 28",
-          "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
         },
         {
@@ -1015,5 +1027,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-17T18:00:25.645222+00:00"
+  "generated_at": "2026-10-18T18:19:25.965564+00:00"
 }
