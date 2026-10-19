@@ -2,6 +2,24 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
+      "title": "ADVANCED DEFENSE + FIRST CONTACT CLINIC: THANKSGIVING CLINIC",
+      "dates": "Nov 25 - Nov 25",
+      "registration_starts": "Oct 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "ADVANCED SETTER + HITTER CLINIC: THANKSGIVING CLINIC",
+      "dates": "Nov 25 - Nov 25",
+      "registration_starts": "Oct 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "MIDDLE SCHOOL ALL SKILLS",
+      "dates": "Nov 25 - Nov 25",
+      "registration_starts": "Oct 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
       "title": "OCTOBER SPEED AND AGILITY TRAINING",
       "dates": "Oct 01 - Oct 29",
       "registration_starts": "Sep 01",
@@ -62,5 +80,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-10-15T19:35:49.006727+00:00"
+  "generated_at": "2026-10-19T02:08:43.212663+00:00"
 }
