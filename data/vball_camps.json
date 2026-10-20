@@ -14,7 +14,7 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
-      "title": "MIDDLE SCHOOL ALL SKILLS",
+      "title": "MIDDLE SCHOOL ALL SKILLS CLINIC",
       "dates": "Nov 25 - Nov 25",
       "registration_starts": "Oct 17",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
@@ -22,6 +22,18 @@
     {
       "title": "LITTLE SPIKERS MINI CLINIC",
       "dates": "Nov 25 - Nov 25",
+      "registration_starts": "Oct 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "MIDDLE SCHOOL THANKSGIVING CAMP",
+      "dates": "Nov 27 - Nov 27",
+      "registration_starts": "Oct 17",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "ELITE COMPETE: HIGH SCHOOL THANKSGIVING CAMP",
+      "dates": "Nov 27 - Nov 27",
       "registration_starts": "Oct 17",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
@@ -86,5 +98,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-10-19T20:53:01.887679+00:00"
+  "generated_at": "2026-10-20T19:49:01.238960+00:00"
 }
