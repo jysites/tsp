@@ -77,6 +77,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "OCTOBER 25 SETTING: MATTHEW",
+          "date": "Oct 25",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "OCTOBER 27 ATTACKING: AJ",
           "date": "Oct 27",
           "time": "7:00PM - 8:00PM",
@@ -95,15 +101,33 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "NOVEMBER 3 ATTACKING: AJ",
+          "date": "Nov 03",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "NOVEMBER 5 DEFENSE: RILEY",
           "date": "Nov 05",
           "time": "5:30PM - 6:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
+          "title": "NOVEMBER 10 ATTACKING: AJ",
+          "date": "Nov 10",
+          "time": "7:00PM - 8:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "NOVEMBER 12 DEFENSE/FIRST CONTACT: RILEY",
           "date": "Nov 12",
           "time": "5:30PM - 6:30PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "NOVEMBER 17 ATTACKING: AJ",
+          "date": "Nov 17",
+          "time": "7:00PM - 8:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         }
       ]
@@ -116,6 +140,18 @@
           "title": "OCTOBER 21 PRIVATE LESSON: CODY",
           "date": "Oct 21",
           "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "OCTOBER 21 PRIVATE LESSON: CODY",
+          "date": "Oct 21",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
+          "title": "OCTOBER 21 PRIVATE LESSON: CODY",
+          "date": "Oct 21",
+          "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
@@ -157,5 +193,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-21T02:12:34.156485+00:00"
+  "generated_at": "2026-10-21T13:16:54.013258+00:00"
 }
