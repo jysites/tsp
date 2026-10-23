@@ -38,12 +38,6 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
-      "title": "PUREFORM SHOOTING LAB (6TH-8TH)",
-      "dates": "Aug 20 - Oct 22",
-      "registration_starts": "May 05",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
-    },
-    {
       "title": "PUREFORM SHOOTING LAB 2 (6TH-8TH)",
       "dates": "Oct 05 - Oct 26",
       "registration_starts": "May 05",
@@ -104,6 +98,12 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     },
     {
+      "title": "PUREFORM SHOOTING LAB (6TH-8TH)",
+      "dates": "Aug 20 - Oct 22",
+      "registration_starts": "May 05",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
+    },
+    {
       "title": "SHOOTING COMBINE - AUGUST 29, 2026",
       "dates": "Aug 29 - Aug 29",
       "registration_starts": "May 05",
@@ -140,5 +140,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-BASKETBALL/12166"
     }
   ],
-  "generated_at": "2026-10-23T02:23:34.708272+00:00"
+  "generated_at": "2026-10-23T13:16:22.085585+00:00"
 }
