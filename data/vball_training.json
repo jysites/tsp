@@ -137,12 +137,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
-          "title": "OCTOBER 29 DEFENSE: RILEY",
-          "date": "Oct 29",
-          "time": "6:30PM - 7:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "NOVEMBER 1 DEFENSE: RILEY",
           "date": "Nov 01",
           "time": "3:00PM - 4:00PM",
@@ -263,6 +257,12 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
         },
         {
+          "title": "OCTOBER 28 PRIVATE LESSON: CODY",
+          "date": "Oct 28",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "OCTOBER 29 PRIVATE LESSON: MADISON CASSIDY",
           "date": "Oct 29",
           "time": "5:30PM - 6:30PM",
@@ -277,5 +277,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-26T01:58:42.951282+00:00"
+  "generated_at": "2026-10-27T20:18:59.485442+00:00"
 }
