@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "NOV 1 SERVE/PASS: PAULA",
-          "date": "Nov 01",
-          "time": "11:00AM - 12:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "NOV 3 SERVE/PASS: LEXIE",
           "date": "Nov 03",
           "time": "4:30PM - 5:30PM",
@@ -118,12 +112,6 @@
       "label": "Training: Advanced 13U+",
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
-        {
-          "title": "NOVEMBER 1 DEFENSE: RILEY",
-          "date": "Nov 01",
-          "time": "3:00PM - 4:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
         {
           "title": "NOVEMBER 1 SETTING: MATTHEW",
           "date": "Nov 01",
@@ -247,5 +235,5 @@
       ]
     }
   },
-  "generated_at": "2026-10-31T19:36:11.412463+00:00"
+  "generated_at": "2026-11-01T14:34:29.430872+00:00"
 }
