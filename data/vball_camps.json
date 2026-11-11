@@ -44,12 +44,6 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
-      "title": "VOLLEY TOGETHER: FAMILY SERIES (PK-3RD GRADE)",
-      "dates": "Oct 06 - Nov 10",
-      "registration_starts": "May 19",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
       "title": "OCTOBER SPEED AND AGILITY TRAINING",
       "dates": "Oct 01 - Oct 29",
       "registration_starts": "Sep 01",
@@ -60,7 +54,13 @@
       "dates": "Oct 04 - Nov 08",
       "registration_starts": "May 20",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
+      "title": "VOLLEY TOGETHER: FAMILY SERIES (PK-3RD GRADE)",
+      "dates": "Oct 06 - Nov 10",
+      "registration_starts": "May 19",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-11-09T18:00:51.120622+00:00"
+  "generated_at": "2026-11-11T22:25:10.254410+00:00"
 }
