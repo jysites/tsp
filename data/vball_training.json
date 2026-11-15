@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "NOV 15 SERVE/PASS: GABI",
-          "date": "Nov 15",
-          "time": "1:15PM - 2:15PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "NOV 17 SERVE/PASS: LEXIE",
           "date": "Nov 17",
           "time": "4:00PM - 5:00PM",
@@ -65,21 +59,9 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
-          "title": "NOVEMBER 15 SERVE/PASS: AJ",
-          "date": "Nov 15",
-          "time": "10:00AM - 11:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
           "title": "NOVEMBER 15 SETTER/HITTER: MATTHEW",
           "date": "Nov 15",
           "time": "2:30PM - 3:30PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
-        },
-        {
-          "title": "NOVEMBER 15 ATTACKING: MATTHEW",
-          "date": "Nov 15",
-          "time": "3:30PM - 4:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
         {
@@ -119,6 +101,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
+          "title": "NOV 18 PRIVATE LESSON: LEXIE",
+          "date": "Nov 18",
+          "time": "3:00PM - 4:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "TO SCHEDULE A PRIVATE LESSON PLEASE EMAIL MICHELE@TEAMSPORTSPLEX.NET",
           "date": "Dec 31",
           "time": "7:00PM - 8:00PM",
@@ -127,5 +115,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-15T03:24:36.170516+00:00"
+  "generated_at": "2026-11-15T20:37:50.095225+00:00"
 }
