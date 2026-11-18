@@ -413,18 +413,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
         {
-          "title": "NOVEMBER GROUP TRAINING: 1ST-2ND GRADES",
-          "date": "Nov 03 - Nov 17",
-          "time": "",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
-        },
-        {
-          "title": "NOVEMBER GROUP TRAINING: 3RD-4TH GRADES",
-          "date": "Nov 03 - Nov 17",
-          "time": "",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
-        },
-        {
           "title": "WEST TRAINING: BEGINNER 2ND-4TH",
           "date": "Feb 09 - Dec 30",
           "time": "",
@@ -445,6 +433,18 @@
         {
           "title": "OCTOBER GROUP TRAINING: 1ST-2ND GRADES",
           "date": "Oct 05 - Oct 26",
+          "time": "",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
+        },
+        {
+          "title": "NOVEMBER GROUP TRAINING: 1ST-2ND GRADES",
+          "date": "Nov 03 - Nov 17",
+          "time": "",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
+        },
+        {
+          "title": "NOVEMBER GROUP TRAINING: 3RD-4TH GRADES",
+          "date": "Nov 03 - Nov 17",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         }
@@ -529,5 +529,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-18T04:52:10.658026+00:00"
+  "generated_at": "2026-11-18T16:46:10.371535+00:00"
 }
