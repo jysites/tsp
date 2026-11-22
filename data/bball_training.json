@@ -209,12 +209,6 @@
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
-          "title": "EDDIE GROUP TRAINING: 4TH/5TH",
-          "date": "Nov 28",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
-        {
           "title": "WEST TRAINING",
           "date": "Dec 02",
           "time": "6:00PM - 7:00PM",
@@ -564,7 +558,7 @@
         },
         {
           "title": "WEST TRAINING: INTERMEDIATE 5TH-8TH",
-          "date": "Feb 09 - Feb 04",
+          "date": "Feb 09 - Feb 03",
           "time": "",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110"
         },
@@ -673,5 +667,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-21T21:15:18.405557+00:00"
+  "generated_at": "2026-11-22T21:21:19.174307+00:00"
 }
