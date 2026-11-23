@@ -5,6 +5,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
+          "title": "DEC 1 SERVE/PASS: ADDISON",
+          "date": "Nov 25",
+          "time": "12:00PM - 1:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
           "title": "DEC 1 SERVE/PASS: GABI",
           "date": "Dec 01",
           "time": "5:00PM - 6:00PM",
@@ -33,6 +39,12 @@
           "date": "Dec 09",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
+        },
+        {
+          "title": "DEC 10 SERVE/PASS: MADISON",
+          "date": "Dec 10",
+          "time": "5:15PM - 6:15PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
         }
       ]
     },
@@ -57,6 +69,18 @@
           "date": "Dec 02",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 8 SERVE/PASS: MADISON",
+          "date": "Dec 08",
+          "time": "5:15PM - 6:15PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 9 SETTER/HITTER: MADISON",
+          "date": "Dec 09",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         }
       ]
     },
@@ -73,5 +97,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-19T04:43:32.886281+00:00"
+  "generated_at": "2026-11-23T04:18:51.327324+00:00"
 }
