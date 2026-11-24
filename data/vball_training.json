@@ -59,6 +59,18 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883",
       "events": [
         {
+          "title": "NOVEMBER 29 SERVE/PASS: AJ",
+          "date": "Nov 29",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "NOVEMBER 29 DEFENSE: AJ",
+          "date": "Nov 29",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
           "title": "DEC 1 SERVE/PASS: GABI",
           "date": "Dec 01",
           "time": "6:00PM - 7:00PM",
@@ -67,6 +79,18 @@
         {
           "title": "DECEMBER 2 DEFENSE/FIRST CONTACT: MADISON",
           "date": "Dec 02",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 6 ATTACKING: AJ",
+          "date": "Dec 06",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 6 DEFENSE: AJ",
+          "date": "Dec 06",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         },
@@ -80,6 +104,30 @@
           "title": "DECEMBER 9 SETTER/HITTER: MADISON",
           "date": "Dec 09",
           "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 13 SETTER/HITTER: AJ",
+          "date": "Dec 13",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 20 SETTER/HITTER: AJ",
+          "date": "Dec 20",
+          "time": "5:00PM - 6:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 27 SERVE/PASS: AJ",
+          "date": "Dec 27",
+          "time": "4:00PM - 5:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
+        },
+        {
+          "title": "DECEMBER 27 DEFENSE: AJ",
+          "date": "Dec 27",
+          "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-advanced-14u%2B/105883"
         }
       ]
@@ -97,5 +145,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-23T19:33:47.851946+00:00"
+  "generated_at": "2026-11-24T07:15:50.929987+00:00"
 }
