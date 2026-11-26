@@ -6,18 +6,6 @@
       "events": [
         {
           "title": "WEST TRAINING",
-          "date": "Nov 25",
-          "time": "4:00PM - 5:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
-        },
-        {
-          "title": "WEST TRAINING",
-          "date": "Nov 26",
-          "time": "8:00AM - 9:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
-        },
-        {
-          "title": "WEST TRAINING",
           "date": "Nov 27",
           "time": "4:00PM - 5:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
@@ -25,7 +13,7 @@
         {
           "title": "WEST TRAINING",
           "date": "Nov 28",
-          "time": "3:00PM - 4:00PM",
+          "time": "1:30PM - 2:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-beginner-2nd-4th/104915"
         },
         {
@@ -270,12 +258,6 @@
       "events": [
         {
           "title": "WEST TRAINING",
-          "date": "Nov 26",
-          "time": "9:00AM - 10:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
-        },
-        {
-          "title": "WEST TRAINING",
           "date": "Nov 27",
           "time": "5:00PM - 6:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
@@ -283,7 +265,7 @@
         {
           "title": "WEST TRAINING",
           "date": "Nov 28",
-          "time": "3:00PM - 4:00PM",
+          "time": "1:30PM - 2:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-intermediate-5th-8th/104916"
         },
         {
@@ -516,18 +498,6 @@
       "events": [
         {
           "title": "WEST TRAINING",
-          "date": "Nov 25",
-          "time": "5:00PM - 6:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
-        {
-          "title": "WEST TRAINING",
-          "date": "Nov 26",
-          "time": "9:00AM - 10:00AM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
-        },
-        {
-          "title": "WEST TRAINING",
           "date": "Nov 27",
           "time": "6:00PM - 7:00PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
@@ -535,7 +505,7 @@
         {
           "title": "WEST TRAINING",
           "date": "Nov 28",
-          "time": "2:00PM - 3:00PM",
+          "time": "12:30PM - 1:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/training%3A-advanced-9th-12th/104908"
         },
         {
@@ -798,18 +768,6 @@
       "events": [
         {
           "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Nov 25",
-          "time": "12:00PM - 1:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
-          "date": "Nov 25",
-          "time": "1:00PM - 2:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
-        },
-        {
-          "title": "INDIVIDUAL TRAINING (COACH EDDIE)",
           "date": "Nov 28",
           "time": "12:30PM - 1:30PM",
           "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-BASKETBALL/13110/season/Individual%20Training%3A%20All%20Ages/130006"
@@ -901,5 +859,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T18:16:18.351283+00:00"
+  "generated_at": "2026-11-26T05:40:32.857642+00:00"
 }
