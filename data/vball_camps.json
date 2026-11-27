@@ -2,6 +2,12 @@
   "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552",
   "camps": [
     {
+      "title": "THE PLEX GIVES BACK - FREE VOLLEYBALL CLINIC",
+      "dates": "Nov 28 - Nov 28",
+      "registration_starts": "Nov 03",
+      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
+    },
+    {
       "title": "MIDDLE SCHOOL THANKSGIVING CAMP",
       "dates": "Nov 27 - Nov 27",
       "registration_starts": "Oct 17",
@@ -11,12 +17,6 @@
       "title": "ELITE COMPETE: HIGH SCHOOL THANKSGIVING CAMP",
       "dates": "Nov 27 - Nov 27",
       "registration_starts": "Oct 17",
-      "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
-    },
-    {
-      "title": "THE PLEX GIVES BACK - FREE VOLLEYBALL CLINIC",
-      "dates": "Nov 28 - Nov 28",
-      "registration_starts": "Nov 03",
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     },
     {
@@ -44,5 +44,5 @@
       "signup_url": "https://bondsports.co/activity/programs/CO_ED-youth-VOLLEYBALL/13552"
     }
   ],
-  "generated_at": "2026-11-25T18:19:44.317500+00:00"
+  "generated_at": "2026-11-27T17:44:57.191957+00:00"
 }
