@@ -5,12 +5,6 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882",
       "events": [
         {
-          "title": "NOV 27 SERVE/PASS: ADDISON",
-          "date": "Nov 27",
-          "time": "1:00PM - 2:00PM",
-          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/training%3A-intermediate-12%2Funder/105882"
-        },
-        {
           "title": "DEC 1 SERVE/PASS: GABI",
           "date": "Dec 01",
           "time": "5:00PM - 6:00PM",
@@ -131,6 +125,12 @@
       "url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651",
       "events": [
         {
+          "title": "PRIVATE LESSON: AMY, DEC 1",
+          "date": "Dec 01",
+          "time": "6:00PM - 7:00PM",
+          "signup_url": "https://bondsports.co/activity/programs/CO_ED-adult-VOLLEYBALL/13547/season/Individual%20Training%3A%2010%2B/112651"
+        },
+        {
           "title": "TO SCHEDULE A PRIVATE LESSON PLEASE EMAIL MICHELE@TEAMSPORTSPLEX.NET",
           "date": "Dec 31",
           "time": "7:00PM - 8:00PM",
@@ -139,5 +139,5 @@
       ]
     }
   },
-  "generated_at": "2026-11-25T18:16:16.338648+00:00"
+  "generated_at": "2026-11-28T05:10:42.039918+00:00"
 }
